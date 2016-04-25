@@ -1,256 +1,250 @@
-Afeganistão
-África do Sul
-Akrotiri
-Albânia
-Alemanha
-Andorra
-Angola
-Anguila
-Antárctida
-Antígua e Barbuda
-Antilhas Neerlandesas
-Arábia Saudita
-Arctic Ocean
-Argélia
-Argentina
-Arménia
-Aruba
-Ashmore and Cartier Islands
-Atlantic Ocean
-Austrália
-Áustria
-Azerbaijão
-Baamas
-Bangladeche
-Barbados
-Barém
-Bélgica
-Belize
-Benim
-Bermudas
-Bielorrússia
-Birmânia
-Bolívia
-Bósnia e Herzegovina
-Botsuana
-Brasil
-Brunei
-Bulgária
-Burquina Faso
-Burúndi
-Butão
-Cabo Verde
-Camarões
-Camboja
-Canadá
-Catar
-Cazaquistão
-Chade
-Chile
-China
-Chipre
-Clipperton Island
-Colômbia
-Comores
-Congo-Brazzaville
-Congo-Kinshasa
-Coral Sea Islands
-Coreia do Norte
-Coreia do Sul
-Costa do Marfim
-Costa Rica
-Croácia
-Cuba
-Dhekelia
-Dinamarca
-Domínica
-Egipto
-Emiratos Árabes Unidos
-Equador
-Eritreia
-Eslováquia
-Eslovénia
-Espanha
-Estados Unidos
-Estónia
-Etiópia
-Faroé
-Fiji
-Filipinas
-Finlândia
-França
-Gabão
-Gâmbia
-Gana
-Gaza Strip
-Geórgia
-Geórgia do Sul e Sandwich do Sul
-Gibraltar
-Granada
-Grécia
-Gronelândia
-Guame
-Guatemala
-Guernsey
-Guiana
-Guiné
-Guiné Equatorial
-Guiné-Bissau
-Haiti
-Honduras
-Hong Kong
-Hungria
-Iémen
-Ilha Bouvet
-Ilha do Natal
-Ilha Norfolk
-Ilhas Caimão
-Ilhas Cook
-Ilhas dos Cocos
-Ilhas Falkland
-Ilhas Heard e McDonald
-Ilhas Marshall
-Ilhas Salomão
-Ilhas Turcas e Caicos
-Ilhas Virgens Americanas
-Ilhas Virgens Britânicas
-Índia
-Indian Ocean
-Indonésia
-Irão
-Iraque
-Irlanda
-Islândia
-Israel
-Itália
-Jamaica
-Jan Mayen
-Japão
-Jersey
-Jibuti
-Jordânia
-Kuwait
-Laos
-Lesoto
-Letónia
-Líbano
-Libéria
-Líbia
-Listenstaine
-Lituânia
-Luxemburgo
-Macau
-Macedónia
-Madagáscar
-Malásia
-Malávi
-Maldivas
-Mali
-Malta
-Man, Isle of
-Marianas do Norte
-Marrocos
-Maurícia
-Mauritânia
-Mayotte
-México
-Micronésia
-Moçambique
-Moldávia
-Mónaco
-Mongólia
-Monserrate
-Montenegro
-Mundo
-Namíbia
-Nauru
-Navassa Island
-Nepal
-Nicarágua
-Níger
-Nigéria
-Niue
-Noruega
-Nova Caledónia
-Nova Zelândia
-Omã
-Pacific Ocean
-Países Baixos
-Palau
-Panamá
-Papua-Nova Guiné
-Paquistão
-Paracel Islands
-Paraguai
-Peru
-Pitcairn
-Polinésia Francesa
-Polónia
-Porto Rico
-Portugal
-Quénia
-Quirguizistão
-Quiribáti
-Reino Unido
-República Centro-Africana
-República Checa
-República Dominicana
-Roménia
-Ruanda
-Rússia
-Salvador
-Samoa
-Samoa Americana
-Santa Helena
-Santa Lúcia
-São Cristóvão e Neves
-São Marinho
-São Pedro e Miquelon
-São Tomé e Príncipe
-São Vicente e Granadinas
-Sara Ocidental
-Seicheles
-Senegal
-Serra Leoa
-Sérvia
-Singapura
-Síria
-Somália
-Southern Ocean
-Spratly Islands
-Sri Lanca
-Suazilândia
-Sudão
-Suécia
-Suíça
 Suriname
-Svalbard e Jan Mayen
-Tailândia
-Taiwan
-Tajiquistão
-Tanzânia
-Território Britânico do Oceano Índico
-Territórios Austrais Franceses
-Timor Leste
-Togo
-Tokelau
-Tonga
-Trindade e Tobago
-Tunísia
-Turquemenistão
-Turquia
-Tuvalu
-Ucrânia
-Uganda
-União Europeia
-Uruguai
-Usbequistão
-Vanuatu
-Vaticano
-Venezuela
-Vietname
+Costa Rica
+Macedónia
 Wake Island
+Costa Rica
+Botsuana
+Togo
+Namíbia
+Guernsey
+Índia
+Singapura
+Bermudas
+Mónaco
+Porto Rico
+Venezuela
+União Europeia
+Maurícia
+Eslovénia
+Andorra
+Jamaica
+Samoa Americana
+Granada
+República Centro-Africana
+África do Sul
+Mali
+Coreia do Norte
+Usbequistão
+Jersey
+Guatemala
+Grécia
+Guatemala
+Dinamarca
+Trindade e Tobago
+Irão
+São Cristóvão e Neves
+Jamaica
+Eslováquia
+Gibraltar
+Tunísia
+Suécia
+Nepal
+Trindade e Tobago
+Quirguizistão
+Haiti
+Jan Mayen
+Paracel Islands
+Listenstaine
+Guernsey
+Papua-Nova Guiné
+Baamas
+Suazilândia
+Santa Helena
+Gaza Strip
+Benim
+Japão
+Nauru
+Polinésia Francesa
+Papua-Nova Guiné
+Lituânia
+Guernsey
+Nigéria
+Tunísia
+Tokelau
+Dinamarca
+Afeganistão
+Jibuti
+Libéria
+Indonésia
+Tajiquistão
+Belize
+Macau
+Polinésia Francesa
+França
+Finlândia
+República Dominicana
+Guiné-Bissau
+Ashmore and Cartier Islands
+Samoa Americana
+Birmânia
+Israel
+Sudão
+Guiné
+Síria
+Vaticano
+Nepal
+Jamaica
+Mónaco
+Suazilândia
+República Centro-Africana
+Tailândia
+Venezuela
+Costa do Marfim
+República Checa
+Argélia
+Lesoto
+Niue
+Eslovénia
+Coreia do Norte
+Bermudas
+República Centro-Africana
+Ilhas dos Cocos
+Afeganistão
+Cazaquistão
+Guiana
+Usbequistão
+Jersey
+Portugal
+Granada
+Coral Sea Islands
+Guame
+Guiana
+Faroé
+Antígua e Barbuda
+Fiji
+República Checa
+Afeganistão
+Arménia
+Croácia
+Malta
+Reino Unido
+São Pedro e Miquelon
+União Europeia
+Jordânia
 Wallis e Futuna
-West Bank
-Zâmbia
+Navassa Island
+Macau
 Zimbabué
+Peru
+Mongólia
+Eslovénia
+Turquia
+Países Baixos
+Guatemala
+Sudão
+Jersey
+Coreia do Norte
+Albânia
+Tunísia
+Território Britânico do Oceano Índico
+Madagáscar
+Nicarágua
+Guatemala
+Grécia
+Benim
+Eslováquia
+São Cristóvão e Neves
+Camboja
+Áustria
+Suriname
+China
+Ucrânia
+Honduras
+São Pedro e Miquelon
+Cazaquistão
+Bulgária
+Ilha do Natal
+República Checa
+Coral Sea Islands
+Eslováquia
+Ilhas Virgens Americanas
+Japão
+Samoa
+Andorra
+Bermudas
+Santa Helena
+Estados Unidos
+Burúndi
+Macedónia
+Ilha Bouvet
+Tonga
+Eritreia
+Paracel Islands
+Listenstaine
+Kuwait
+Togo
+Índia
+Paraguai
+Gaza Strip
+Ilhas Virgens Britânicas
+Montenegro
+Nigéria
+Gabão
+Gabão
+Samoa
+Estados Unidos
+Chipre
+Ilhas Caimão
+Nigéria
+Singapura
+Tonga
+Malávi
+Jan Mayen
+Dinamarca
+Gâmbia
+Áustria
+Portugal
+Maurícia
+Bulgária
+Finlândia
+Clipperton Island
+Israel
+Ilhas Heard e McDonald
+Iraque
+Gaza Strip
+Polónia
+Egipto
+Navassa Island
+Senegal
+Libéria
+Svalbard e Jan Mayen
+Burquina Faso
+Polinésia Francesa
+Polinésia Francesa
+Jibuti
+Burúndi
+Nigéria
+Argélia
+Congo-Brazzaville
+Mali
+Lesoto
+Marrocos
+Eslovénia
+Macedónia
+Tokelau
+Eritreia
+Mauritânia
+Guiné-Bissau
+Aruba
+Guatemala
+Indonésia
+Síria
+Chile
+Bulgária
+Ilhas Virgens Britânicas
+Gana
+Granada
+Itália
+Reino Unido
+Noruega
+Akrotiri
+Madagáscar
+Argentina
+Rússia
+Papua-Nova Guiné
+Venezuela
+Ilhas Marshall
+Monserrate
+Porto Rico
+Taiwan
+Ilhas Virgens Americanas
