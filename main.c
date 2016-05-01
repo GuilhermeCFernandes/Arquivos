@@ -7,6 +7,7 @@
 #define TERMINADOR_CAMPO '|'
 #define TERMINADOR_REGISTRO '#'
 
+/*Estrutura usada para armazenar registros em RAM antes da criação do arquivo binario*/
 typedef struct registro {
     int id;
     char *titulo;
@@ -17,6 +18,7 @@ typedef struct registro {
     char *genero;
 } REGISTRO;
 
+/*Opções do menu*/
 enum opcoes {
     SAIR,
     BUSCAR,
@@ -31,20 +33,35 @@ void dumpReg (void);
 long find(FILE *, int);
 
 int main (int argc, char *argv[]) {
-    FILE *f = fopen("BancoDeDados", "r");
-    int id, op;
-    long offset;
-    generateBD ();
+    
+	/*Variaveis*/
+    FILE *f = fopen("BancoDeDados", "r"); //Arquivo de dados
+    int id; //Chave de busca 
+    int op; // Oberador
+    long offset; //byte offset
+    
 
+    generateBD (); //gera o arquivo de dados a partir dos arquivos texto
+
+    // inicio do programa
     do {
+
         rewind(f);
-        printf("1) Buscar\n2) Dump\n3) Aleatorizar\n0) Sair\n");
-        scanf("%d", &op);
+        printf("1) Buscar\n2) Dump\n3) Aleatorizar\n0) Sair\n"); //Imprime interface
+        scanf("%d", &op); //Busca pela opção do usuario
+        
+        //Executa a opção desejada
         switch (op) {
+
             case BUSCAR:
+            	//Recebe o ID
                 printf("Digite o id a ser buscado: ");
                 scanf("%d", &id);
+
+                //Encontra o byte offset do campo, caso encontrado
                 offset = find(f, id);
+
+                //Imprime o campo/mensagem de erro
                 if (offset == EOF)
                     printf("ID não encontrado.\n");
                 else {
@@ -54,10 +71,13 @@ int main (int argc, char *argv[]) {
                 break;
 
             case DUMP:
+            	//imprime todos os registros na tela
                 dumpAll(f);
                 break;
 
             case ALEATORIZAR:
+
+            	//Gera um novo arquivo de banco de dados
                 fclose(f);
                 generateBD();
                 f = fopen("BancoDeDados", "r");
@@ -70,6 +90,12 @@ int main (int argc, char *argv[]) {
     return 0;
 }
 
+/* ignoreStr() - Busca pelo terminador de campo em um campo de tamanho variavel que armazena uma string
+ *	Parameter:
+ *		FILE *stream: file stream
+ *	Return:
+ *		-		
+*/
 void ignoreStr(FILE *stream) {
     char c;
 
@@ -78,36 +104,62 @@ void ignoreStr(FILE *stream) {
     } while (!feof(stream) && c != TERMINADOR_CAMPO);
 }
 
+/* ignoreStr() - Busca pelo terminador de campo em um campo de tamanho fixo que armazena um inteiro
+ *	Parameter:
+ *		FILE *stream: file stream
+ *	Return:
+ *		-		
+*/
 void ignoreInt(FILE *stream) {
     int x;
     fread(&x, sizeof(int), 1, stream);
     fgetc(stream);
 }
 
+
+/* find () - Executa a busca sequencial no arquivo de usando como chave primaria o ID
+*	Parameter:
+*		FILE *stream: Ponteiro para o arquivo de dados
+*		int id: chave da busca
+*	Return:
+*		long: byte offset do registro se encontrar o ID. EOF caso contrario.	
+*/
 long find(FILE *stream, int id) {
     int idReg;
 
+    /*Busca pelo ID*/
     do {
-        fread(&idReg, sizeof(int), 1, stream);
-        fgetc(stream);
+        fread(&idReg, sizeof(int), 1, stream); //Le o primeiro ID
+        fgetc(stream); // Pula o terminador de campo
+        
+        //Compara o id lido com a chave
         if (idReg == id)
             return ftell(stream) - sizeof(int) - sizeof(char);
 
+        //Pula o restante dos campos
         ignoreStr(stream);
         ignoreStr(stream);
         ignoreStr(stream);
         ignoreInt(stream);
         ignoreInt(stream);
         ignoreStr(stream);
-        fgetc(stream);
+        fgetc(stream); //Pula terminador de arquivo
     } while (!feof(stream));
 
     return EOF;
 }
 
+/* dumpStr () - Imprime na tela um campo de tamanho variavel que armazena uma string.
+ *	Parameter:
+ *		FILE *stream: Ponteiro para o arquivo de dados
+ *	Return:
+ *		-
+ *
+*/
 void dumpStr(FILE *stream) {
     char c;
 
+    //Imprime um caracter na tela até que chega á um terminador de campo ou EOF
     do {
         c = fgetc(stream);
         if (c != TERMINADOR_CAMPO)
@@ -115,6 +167,13 @@ void dumpStr(FILE *stream) {
     } while (!feof(stream) && c != TERMINADOR_CAMPO);
 }
 
+/* dumpInt () - Imprime na tela um campo de tamanho fixo que armazena um inteiro.
+ *	Parameter:
+ *		FILE *stream: Ponteiro para o arquivo de dados
+ *	Return:
+ *		-
+ *
+*/
 void dumpInt(FILE *stream) {
     int x;
     fread(&x, sizeof(int), 1, stream);
@@ -122,18 +181,40 @@ void dumpInt(FILE *stream) {
     printf("%d", x);
 }
 
+/* dumpAll () - Imprime na tela todos os registros do arquivo de dados na ordem em que estao armazenados
+ *	Parameter:
+ *		FILE *stream: Ponteiro para o arquivo de dados
+ *	Return:
+ *		-
+ *
+*/
 void dumpAll(FILE *stream) {
     int i;
     for (i = 0; i < 100; i++)
-        dumpData(stream);
+        dumpData(stream); // Imprime um registro
 }
 
+/* printCampo () - Imprime na tela, de forma formatada, à que campo se refere e o conteudo do campo
+ *	Parameter:
+ *		char *nome: cabeçalho a ser impresso
+ *		(*f) (FILE *): Função usada para imprimir o campo
+ *		FILE *stream: Ponteiro para o arquivo de dados
+ *	Return:
+ *		-
+ *
+*/
 void printCampo(char *nome, void (*f) (FILE *), FILE *stream) {
     printf("%s\t", nome);
     f(stream);
     printf("\n");
 }
 
+/* dumpData () - Imprime todos os campos de um registro
+ *	Parameter:
+ 		FILE *stream: file stram
+ 	Return: 
+ 		-
+*/
 void dumpData(FILE *stream) {
     printCampo("id\t", &dumpInt, stream);
     printCampo("tituloSerie", &dumpStr, stream);
@@ -146,21 +227,37 @@ void dumpData(FILE *stream) {
     printf("================\n");
 }
 
+/* meuGetLine () - Função que chama o getline() e retira o /n armazenado na string, se existir
+	Parameter:
+		size_t *b: Armazenara o numero de bytes armazenados
+		FILE *stream: file stream
+	Return: Vetor com string lida
+*/
 char *meuGetLine(size_t *b, FILE *stream) {
     char *s = NULL;
     int i;
-    getline(&s, b, stream);
+    getline(&s, b, stream); //Chama o getline
     i = strlen(s)-1;
 
+    //Remove, se encontrar, o /n
     if (i >= 0 && s[i] == '\n')
         s[i] = '\0';
 
     return s;
 }
 
+/* nextRandID () - Gera um numero aleatorio entre 0 e 99 que ainda não foi armazenado em ids e o retorna para o usuario
+ *	Parametros: 
+ *		bool *ids: vetor usado para armazenar valores/posições já sorteadas
+ *	Return:		
+ *		int: Numero aleatorio entre 0 e 99
+*/
 int nextRandId(bool *ids) {
     int id = -1;
 
+    /* Sorteia um numero entre 0 e 99 até que a posição sorteada esteja "vazia"
+     * então preenche a posição e retorna o valor
+     */
     do {
         id = rand() % 100;
         if (ids[id])
@@ -174,6 +271,10 @@ int nextRandId(bool *ids) {
 
 /*	generateBD (void) - A partir de arquivos .txt contendo informações sobre 250 series diferentes, gera um arquivo binario contendo 100 dessas
  *  em ordem aleatória atribuindo IDs tbm aleatorios.
+ *		Parameter: 
+ *			-
+ *		Return:
+ *			-
 */
 void generateBD (void) {
     
