@@ -172,32 +172,42 @@ int nextRandId(bool *ids) {
     return id;
 }
 
+/*	generateBD (void) - A partir de arquivos .txt contendo informações sobre 250 series diferentes, gera um arquivo binario contendo 100 dessas
+ *  em ordem aleatória atribuindo IDs tbm aleatorios.
+*/
 void generateBD (void) {
-//Generate random vector with 100 pos
-    size_t i, j;
+    
+    /*Variaveus*/
+    size_t i, j; //Contaores gerais
     int id;
-    int numb;
+    int numb; 
     int size;
 
-    int randVector[100];
-    bool *randIds = calloc(100, sizeof(bool));
-    void *regVector = NULL;
+    int randVector[100]; //Vetor contendo numeros de 0 à 249 em ordem aleaotoria
+    bool *randIds = calloc(100, sizeof(bool)); //Vetor contendo numeros de 0 à 99 em ordem aleaotoria
+    void *regVector = NULL; //Buffer usado para armazenar o conteudo de um registro antes de escrevê-lo no arquivo
 
-    char terminadorCampo = TERMINADOR_CAMPO;
-    char terminadorRegistro = TERMINADOR_REGISTRO;
+    char terminadorCampo = TERMINADOR_CAMPO; //Caracter usado como terminador de Campos
+    char terminadorRegistro = TERMINADOR_REGISTRO; //Carracter usado como terminador de Registro
 
-    REGISTRO *registros = NULL;
-    registros = (REGISTRO *) malloc (250 * sizeof(REGISTRO));
+    /*Cria um vetor para armazenar as 250 series em RAM*/
+    REGISTRO *registros = NULL; //Vetor dos registros salvos em RAM na forma de struct.
+    registros = (REGISTRO *) malloc (250 * sizeof(REGISTRO)); //Alloca memoria
 
-    FILE *titulo = NULL;
+
+    /*ponteiros para os arquivos .txt*/
+    FILE *titulo = NULL; 
     FILE *descricao = NULL;
     FILE *producao = NULL;
     FILE *ano = NULL;
     FILE *temporada = NULL;
     FILE *genero = NULL;
-    FILE *BancoDeDados = NULL;
+
+    /*Arquivo binario*/
+    FILE *BancoDeDados = NULL; 
 
 
+    /*Gera uma vetor de 100 posições com numeros de 0 à 249 em ordem aleatoria e não repetidos*/
     srand(time(NULL));
     for (i = 0; i < 100; i++) {
         numb = rand() % 250;
@@ -211,6 +221,8 @@ void generateBD (void) {
             i--;
     }
 
+
+    /*Abre arquivos .txt*/
     titulo = fopen ("nomes.txt", "r");
     descricao = fopen ("desc.txt", "r");
     producao = fopen ("paises.txt", "r");
@@ -219,88 +231,116 @@ void generateBD (void) {
     genero = fopen ("generos.txt", "r");
 
 
+    /*Salva o conteudo dos arquivos .txt em RAM para manipulação*/
     for (i = 0; i < 250; i++) {
         registros[i].titulo = NULL;
         registros[i].descricao = NULL;
         registros[i].producao = NULL;
         registros[i].genero = NULL;
 
+        //Titudlo
         j = 0;
         registros[i].titulo = meuGetLine (&j, titulo);
 
+        //Descricao
         j = 0;
         registros[i].descricao = meuGetLine (&j, descricao);
 
+        //Producao (PAIS)
         j = 0;
         registros[i].producao = meuGetLine (&j, producao);
 
+        //Ano
         fscanf  (ano, "%d", &registros[i].ano);
+        
+        //Temporada	
         fscanf  (temporada, "%d", &registros[i].temporada);
 
+        //Genero
         j = 0;
         registros[i].genero = meuGetLine (&j, genero);
     }
 
 
-    //Salvando no arquivo
-    BancoDeDados = fopen ("BancoDeDados", "w");
+    /*Gerando o arquivo binario*/
+
+    BancoDeDados = fopen ("BancoDeDados", "w"); //Cria o arquivo
+
+   	//Serão salvos/escritos apenas 100, dos 250 registros
     for (j = 0; j < 100; j++) {
-        i = randVector[j];
-        id = nextRandId(randIds);
+        i = randVector[j]; //Seleciona o primeiro registro a ser salvo na ram
+        id = nextRandId(randIds); //Gera o id deste registro
+
+        /*Calcula o tamanho total do registro*/
         size = sizeof(char) * (strlen(registros[i].titulo) + strlen(registros[i].descricao) + strlen(registros[i].producao) + strlen (registros[i].genero));
         size += sizeof(int) * 3;
         size += sizeof(char) * 8;
 
+        //Alloca o buffer
         regVector = calloc(size, 1);
-        size = 0;
+        size = 0;//Reinicia variavel size
 
+        /*Copia o conteudo da struct para o vetor regVector, adicionando os terminadores*/
+        
+        /*Campo ID*/
         memcpy (regVector + size, &id, sizeof(int));
         size += sizeof(int);
-
+        //Terminador
         memcpy (regVector + size, &terminadorCampo, sizeof(char));
         size += sizeof(char);
 
+        /*Campos TITULO*/
         memcpy(regVector + size, registros[i].titulo, strlen(registros[i].titulo) * sizeof(char));
         size += strlen(registros[i].titulo) * sizeof(char);
-
+        //Terminador
         memcpy (regVector + size, &terminadorCampo, 1 * sizeof(char));
         size += sizeof(char);
 
+        /*Campo DESCRICAO*/
         memcpy(regVector + size, registros[i].descricao, strlen(registros[i].descricao) * sizeof(char));
         size += strlen(registros[i].descricao) * sizeof(char);
-
+        //Terminador
         memcpy (regVector + size, &terminadorCampo, 1 * sizeof(char));
         size += sizeof(char);
 
+        /*Campo PRODUCAO*/
         memcpy(regVector + size, registros[i].producao, strlen(registros[i].producao) * sizeof(char));
         size += strlen(registros[i].producao) * sizeof(char);
-
+        //Terminador
         memcpy (regVector + size, &terminadorCampo, 1 * sizeof(char));
         size += sizeof(char);
 
+        /*Campos ANO*/
         memcpy (regVector + size, &registros[i].ano, 1 * sizeof(int));
         size += sizeof(int);
-
+        //Terminador
         memcpy (regVector + size, &terminadorCampo, 1 * sizeof(char));
         size += sizeof(char);
 
+        /*Campos TEMPORADA*/
         memcpy (regVector + size, &registros[i].temporada, 1 * sizeof(int));
         size += sizeof(int);
-
+        //Terminador
         memcpy (regVector + size, &terminadorCampo, 1 * sizeof(char));
         size += sizeof(char);
 
+        /*Campos GENERO*/
         memcpy(regVector + size, registros[i].genero, strlen(registros[i].genero) * sizeof(char));
         size += strlen(registros[i].genero) * sizeof(char);
-
+        //Terminador
         memcpy (regVector + size, &terminadorCampo, sizeof(char));
         size += sizeof(char);
+        
+        /*Terminador de registro*/
         memcpy (regVector + size, &terminadorRegistro, sizeof(char));
         size += sizeof(char);
 
+        //Escreve no arquivo e limpa o regVector para a reutilização
         fwrite (regVector, 1, size, BancoDeDados);
         free(regVector);
     }
+
+    /*Fecha arquivos utilizados*/
     fclose (titulo);
     fclose (descricao);
     fclose (producao);
@@ -309,6 +349,7 @@ void generateBD (void) {
     fclose (genero);
     fclose(BancoDeDados);
 
+    /*Libera a memoria usado para armazenamento dos registros em RAM*/
     for (i = 0; i < 250; i++) {
         free(registros[i].titulo);
         free(registros[i].descricao);
