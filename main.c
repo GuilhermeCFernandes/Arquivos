@@ -35,12 +35,14 @@ long find(FILE *, int);
 int main (int argc, char *argv[]) {
     
 	/*Variaveis*/
-    FILE *f = fopen("BancoDeDados", "r"); //Arquivo de dados
+    FILE *f; //Arquivo de dados
     int id; //Chave de busca 
     int op; // Oberador
     long offset; //byte offset
     
-
+    f = fopen("BancoDeDados", "a");
+    fclose(f);
+    f = fopen("BancoDeDados", "r");
     generateBD (); //gera o arquivo de dados a partir dos arquivos texto
 
     // inicio do programa
