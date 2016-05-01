@@ -1,0 +1,2474 @@
+1) Buscar
+2) Dump
+3) Aleatorizar
+0) Sair
+Digite o id a ser buscado: id		25
+tituloSerie	The Adventures of Sherlock Holmes
+descSerie	A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, and tedium. Based on the hit BBC series.
+producao	República Dominicana
+anoLançamento	1984
+temporada	27
+generoSerie	Crime
+================
+1) Buscar
+2) Dump
+3) Aleatorizar
+0) Sair
+Digite o id a ser buscado: id		25
+tituloSerie	The Adventures of Sherlock Holmes
+descSerie	A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, and tedium. Based on the hit BBC series.
+producao	República Dominicana
+anoLançamento	1984
+temporada	27
+generoSerie	Crime
+================
+1) Buscar
+2) Dump
+3) Aleatorizar
+0) Sair
+1) Buscar
+2) Dump
+3) Aleatorizar
+0) Sair
+Digite o id a ser buscado: id		25
+tituloSerie	The Adventures of Sherlock Holmes
+descSerie	A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, and tedium. Based on the hit BBC series.
+producao	República Dominicana
+anoLançamento	1984
+temporada	27
+generoSerie	Crime
+================
+1) Buscar
+2) Dump
+3) Aleatorizar
+0) Sair
+id		12
+tituloSerie	Game of Thrones
+descSerie	While a civil war brews between several noble families in Westeros, the children of the former rulers of the land attempt to rise up to power. Meanwhile a forgotten race, bent on destruction, return after thousands of years in the North.
+producao	Wake Island
+anoLançamento	2011
+temporada	28
+generoSerie	Adventure
+================
+id		85
+tituloSerie	Wire in the Blood
+descSerie	A streetwise hustler is pulled into a compelling conspiracy after witnessing the suicide of a girl who looks just like her.
+producao	Venezuela
+anoLançamento	2002
+temporada	3
+generoSerie	Crime
+================
+id		62
+tituloSerie	The Jinx: The Life and Deaths of Robert Durst
+descSerie	A series chronicling the daily activities of an unusual prison facility and its criminal inhabitants.
+producao	Baamas
+anoLançamento	2015
+temporada	5
+generoSerie	Documentary
+================
+id		67
+tituloSerie	Archer
+descSerie	Matt Murdock, with his other senses superhumanly enhanced, fights crime as a blind Lawyer by day, and vigilante by night.
+producao	Lituânia
+anoLançamento	2009
+temporada	12
+generoSerie	Animation
+================
+id		53
+tituloSerie	Homicide: Life on the Street
+descSerie	After resigning, a secret agent is abducted and taken to what looks like an idyllic village, but is really a bizarre prison. His warders demand information. He gives them nothing, but only tries to escape.
+producao	Mongólia
+anoLançamento	1993
+temporada	11
+generoSerie	Crime
+================
+id		48
+tituloSerie	Downton Abbey
+descSerie	The Elric brothers' deciding to perform a forbidden human transmutation to bring their dead mother back, they end up losing their bodies. Now Edward must find the chemical privileges to restore their body back.
+producao	Coreia do Norte
+anoLançamento	2010
+temporada	8
+generoSerie	Drama
+================
+id		34
+tituloSerie	Black-Adder II
+descSerie	In the future, the Saint Britannian Empire invades Japan and call their inhabitants the "eleven." A child living in the Empire witnesses the death of his mother and the crippling of his little sister. Later he gets caught in an eleven rebel chase and has the opportunity given by a mysterious girl to take his revenge against the Empire by using an obedience power.
+producao	Síria
+anoLançamento	1986
+temporada	22
+generoSerie	Comedy
+================
+id		65
+tituloSerie	Chappelle's Show
+descSerie	A show set in the late 1800s, revolving around the characters of Deadwood, South Dakota; a town of deep corruption and crime.
+producao	Macau
+anoLançamento	2003
+temporada	27
+generoSerie	Comedy
+================
+id		98
+tituloSerie	Outlander
+descSerie	Descrição não disponível.
+producao	Ilhas Virgens Americanas
+anoLançamento	2014
+temporada	4
+generoSerie	Drama
+================
+id		63
+tituloSerie	Samurai Jack
+descSerie	Boston Legal is a spin-off of the long-running Kelley series The Practice, following the exploits of former Practice character Alan Shore (James Spader) at the legal firm of Crane, Poole and Schmidt.
+producao	Senegal
+anoLançamento	2001
+temporada	16
+generoSerie	Animation
+================
+id		49
+tituloSerie	Mr. Robot
+descSerie	Inside the lives of staffers in the west wing of the White House.
+producao	Samoa Americana
+anoLançamento	2015
+temporada	23
+generoSerie	Crime
+================
+id		45
+tituloSerie	Nathan for You
+descSerie	After learning that he is from another planet, a warrior named Goku and his friends are prompted to defend it from an onslaught of extraterrestrial enemies.
+producao	Japão
+anoLançamento	2013
+temporada	30
+generoSerie	Documentary
+================
+id		78
+tituloSerie	Dragon Ball: Doragon bôru
+descSerie	The trials and tribulations of small town Texas football players, their friends, family, and coaching staff.
+producao	Croácia
+anoLançamento	1986
+temporada	28
+generoSerie	Animation
+================
+id		94
+tituloSerie	Battlestar Galactica
+descSerie	A human boy named Finn and adoptive brother and best friend Jake the Dog, protect the citizens of the Land of Ooo from foes of various shapes and sizes.
+producao	Cazaquistão
+anoLançamento	2003
+temporada	16
+generoSerie	Action
+================
+id		88
+tituloSerie	Eu, Cláudio
+descSerie	The history of the Roman Empire as experienced by one of its rulers.
+producao	Suécia
+anoLançamento	1976
+temporada	18
+generoSerie	Drama
+================
+id		29
+tituloSerie	Liga da Justiça
+descSerie	A teenage boy finds himself recruited as a member of an elite team of pilots by his father.
+producao	Eslovénia
+anoLançamento	2001
+temporada	11
+generoSerie	Animation
+================
+id		16
+tituloSerie	Avatar - A Lenda de Aang
+descSerie	In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.
+producao	Porto Rico
+anoLançamento	2005
+temporada	9
+generoSerie	Animation
+================
+id		97
+tituloSerie	Leyla ile Mecnun
+descSerie	Ahmet, Murat and Sadi are actors who dream of shooting a movie and present a documentary called 'Meslek Hikayeleri' in order to make money.
+producao	Tonga
+anoLançamento	2011
+temporada	4
+generoSerie	Adventure
+================
+id		38
+tituloSerie	Police Squad!
+descSerie	A team of mutant superheroes fight for justice and human acceptance in the Marvel Comics universe.
+producao	Santa Helena
+anoLançamento	1982
+temporada	15
+generoSerie	Comedy
+================
+id		56
+tituloSerie	Summer Heights High
+descSerie	Set in 1996 in Lincolnshire, the show tells the tragic and humorous story of a very troubled young girl Rae, who has just left a psychiatric hospital, where she has spent four months after attempting suicide, and begins to reconnect with her best friend Chloe and her group, who are unaware of Rae's mental health and body image problems, believing she was in France for the past four months.
+producao	Singapura
+anoLançamento	2007
+temporada	3
+generoSerie	Comedy
+================
+id		77
+tituloSerie	Only Fools and Horses....
+descSerie	Classic comedy following the misadventures of two Wheeler Dealer brothers Del Boy and Rodney Trotter who scrape their living by selling dodgy goods believing that next year they will be millionaires.
+producao	Haiti
+anoLançamento	1981
+temporada	5
+generoSerie	Comedy
+================
+id		17
+tituloSerie	I Love Lucy
+descSerie	A samurai sent through time fights to return home and save the world.
+producao	Gaza Strip
+anoLançamento	1951
+temporada	3
+generoSerie	Comedy
+================
+id		28
+tituloSerie	Vikings
+descSerie	Alan Partridge a failed television presenter whose previous exploits had featured in the chat-show parody Knowing Me, Knowing You with Alan Partridge, and who is now presenting a programed on local radio in Norwich.
+producao	Áustria
+anoLançamento	2013
+temporada	10
+generoSerie	None
+================
+id		72
+tituloSerie	Spartacus: Deuses da Arena
+descSerie	Series of unrelated short stories covering elements of crime, horror, drama and comedy about people of different species committing murders, suicides, thefts and other sorts of crime caused by certain motivations; perceived or not.
+producao	Jordânia
+anoLançamento	2011
+temporada	9
+generoSerie	Action
+================
+id		40
+tituloSerie	Gomorra - La serie
+descSerie	This parody series is an unearthed 80s horror/drama, complete with poor production values, awful dialogue and hilarious violence. The series is set in a Hospital in Romford, which is situated over the gates of Hell.
+producao	Ilha do Natal
+anoLançamento	2014
+temporada	25
+generoSerie	Crime
+================
+id		9
+tituloSerie	Trigun
+descSerie	A bounty hunter rides the Old West, fighting bad guys, many with futuristic-type gadgets.
+producao	Tokelau
+anoLançamento	1998
+temporada	26
+generoSerie	Animation
+================
+id		74
+tituloSerie	O Mundo em Guerra
+descSerie	A series of documentaries about World War II.
+producao	Bermudas
+anoLançamento	1973
+temporada	19
+generoSerie	Documentary
+================
+id		7
+tituloSerie	Pushing Daisies
+descSerie	Captain James T. Kirk and the crew of the Starship Enterprise explore the galaxy and defend the United Federation of Planets.
+producao	Eslovénia
+anoLançamento	2007
+temporada	30
+generoSerie	Comedy
+================
+id		22
+tituloSerie	It's Always Sunny in Philadelphia
+descSerie	Comedian Dave Chappelle hosts this sketch-comedy show that parodies many of the nuances of race and culture.
+producao	Belize
+anoLançamento	2005
+temporada	1
+generoSerie	Comedy
+================
+id		42
+tituloSerie	Happy Valley
+descSerie	An interweaving narrative chronicling the antics of such diverse characters as: a transsexual taxi driver, a family obsessed with hygiene and toads, a fiery reverend, a carnival owner who kidnaps women into marriage, and a xenophobic couple who run a local shop for local people.
+producao	Finlândia
+anoLançamento	2014
+temporada	24
+generoSerie	Crime
+================
+id		79
+tituloSerie	The Walking Dead
+descSerie	Bertram Wooster, a well-intentioned, wealthy layabout, has a habit of getting himself into trouble and it's up to his brilliant valet, Jeeves, to get him out.
+producao	Eritreia
+anoLançamento	2010
+temporada	8
+generoSerie	Drama
+================
+id		20
+tituloSerie	O Show do Pernalonga
+descSerie	A brilliant neurosurgeon living in Germany finds his life in utter turmoil after getting involved with a psychopath that was once a former patient.
+producao	União Europeia
+anoLançamento	1960
+temporada	30
+generoSerie	Animation
+================
+id		5
+tituloSerie	Louie
+descSerie	Francis Urquhart, Chief Whip, manipulates things and people to achieve his ambitions in the Houses of Parliament, all the while keeping his hand carefully hidden behind the scenes. But Mattie Storin, a young reporter, may be getting too close to him.
+producao	Usbequistão
+anoLançamento	2010
+temporada	5
+generoSerie	Comedy
+================
+id		55
+tituloSerie	Breaking Bad
+descSerie	A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine, with his former student, in order to secure his family's financial future.
+producao	Macedónia
+anoLançamento	2008
+temporada	24
+generoSerie	Crime
+================
+id		58
+tituloSerie	West Wing: Nos Bastidores do Poder
+descSerie	When an old enemy, the Cylons, resurface and obliterate the 12 colonies, the crew of the aged Galactica protect a small civilian fleet - the last of humanity - as they journey toward the fabled 13th colony, Earth.
+producao	Birmânia
+anoLançamento	1999
+temporada	10
+generoSerie	Drama
+================
+id		50
+tituloSerie	Das Boot
+descSerie	A World War II German U-Boat crew have a terrifying patrol mission in the early days of the war.
+producao	Irão
+anoLançamento	1985
+temporada	7
+generoSerie	Drama
+================
+id		15
+tituloSerie	Long Way Round
+descSerie	Follows the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.
+producao	Polinésia Francesa
+anoLançamento	2004
+temporada	13
+generoSerie	Documentary
+================
+id		37
+tituloSerie	Fawlty Towers
+descSerie	Hotel owner Basil Fawlty's incompetence, short fuse, and arrogance form a combination that ensures accidents and trouble are never far away.
+producao	Guernsey
+anoLançamento	1975
+temporada	11
+generoSerie	Comedy
+================
+id		76
+tituloSerie	Suits
+descSerie	The adventures of a young wandering swordsman who stumbles upon a struggling martial arts school in Meiji era Japan.
+producao	Coreia do Norte
+anoLançamento	2011
+temporada	18
+generoSerie	Comedy
+================
+id		32
+tituloSerie	Sherlock
+descSerie	A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.
+producao	Singapura
+anoLançamento	2010
+temporada	1
+generoSerie	Crime
+================
+id		90
+tituloSerie	Wan pîsu: One Piece
+descSerie	The further adventures of the time traveling alien adventurer and his companions.
+producao	Suazilândia
+anoLançamento	1999
+temporada	6
+generoSerie	Animation
+================
+id		39
+tituloSerie	Last Week Tonight with John Oliver
+descSerie	Former Daily Show Correspondent John Oliver brings his persona to this new weekly news satire program.
+producao	Venezuela
+anoLançamento	2014
+temporada	6
+generoSerie	Comedy
+================
+id		73
+tituloSerie	TVF Pitchers
+descSerie	A story of trials and tribulations of four young entrepreneurs who quit their day jobs in order to pursue their start up venture.
+producao	Mali
+anoLançamento	2015
+temporada	8
+generoSerie	Comedy
+================
+id		96
+tituloSerie	Yes Minister
+descSerie	An aspiring supervillain must balance his career and his pursuit of a beautiful do-gooder.
+producao	Coral Sea Islands
+anoLançamento	1980
+temporada	27
+generoSerie	Comedy
+================
+id		51
+tituloSerie	Arrested Development
+descSerie	Level-headed son Michael Bluth takes over family affairs after his father is imprisoned. But the rest of his spoiled, dysfunctional family are making his job unbearable.
+producao	Dinamarca
+anoLançamento	2003
+temporada	10
+generoSerie	Comedy
+================
+id		66
+tituloSerie	Os Simpsons
+descSerie	The satiric adventures of a working-class family in the misfit city of Springfield.
+producao	Listenstaine
+anoLançamento	1989
+temporada	5
+generoSerie	Animation
+================
+id		25
+tituloSerie	The Adventures of Sherlock Holmes
+descSerie	A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, and tedium. Based on the hit BBC series.
+producao	República Dominicana
+anoLançamento	1984
+temporada	27
+generoSerie	Crime
+================
+id		19
+tituloSerie	Borgen
+descSerie	The lives of Police Officers working for the Los Angeles Police Department.
+producao	Ilhas Heard e McDonald
+anoLançamento	2010
+temporada	1
+generoSerie	Drama
+================
+id		0
+tituloSerie	Cranford
+descSerie	In February of 2009, Toei Animation announced that as an honor to 20 years of Dragon Ball Z, they will begin the production of a renewed DragonBall Z, named Dragon Ball Kai. This new anime chronicles the plot of DBZ and consists of parts from the original anime which are edited to a better quality and with new voices. Toei Animation also confirmed that the plot of DBK will be closer to manga style.
+producao	Indonésia
+anoLançamento	2007
+temporada	25
+generoSerie	Drama
+================
+id		21
+tituloSerie	Ataque dos Titãs
+descSerie	The trials and tribulations of criminal lawyer, Jimmy McGill, in the time leading up to establishing his strip-mall law office in Albuquerque, New Mexico.
+producao	Afeganistão
+anoLançamento	2013
+temporada	24
+generoSerie	Animation
+================
+id		26
+tituloSerie	Dragon Ball
+descSerie	The absurd antics of an Indiana town's public officials as they pursue sundry projects to make their city a better place.
+producao	Arménia
+anoLançamento	1995
+temporada	28
+generoSerie	Animation
+================
+id		36
+tituloSerie	Sobrenatural
+descSerie	Follows four friends and their antics during their final years of school.
+producao	Israel
+anoLançamento	2005
+temporada	3
+generoSerie	Drama
+================
+id		57
+tituloSerie	Coupling
+descSerie	On the run from a drug deal gone bad, Mike Ross, a brilliant college-dropout, finds himself a job working with Harvey Specter, one of New York City's best lawyers.
+producao	Sudão
+anoLançamento	2000
+temporada	16
+generoSerie	Comedy
+================
+id		82
+tituloSerie	X-Men
+descSerie	Sheriff Deputy Rick Grimes leads a group of survivors in a world overrun by the walking dead. Fighting the dead, fearing the living.
+producao	Macedónia
+anoLançamento	1992
+temporada	18
+generoSerie	Animation
+================
+id		93
+tituloSerie	The Night Manager
+descSerie	Lucas Hood (Antony Starr), an ex-con and master thief assumes the identity of a murdered sheriff where he continues his criminal activities. His past seems to haunt him by those he betrayed years earlier. This ex-con imposes his own brand of justice where violence erupts at every turn in the not so quiet Amish town, Banshee, Pennsylvania.
+producao	Noruega
+anoLançamento	2016
+temporada	30
+generoSerie	Crime
+================
+id		41
+tituloSerie	Making a Murderer
+descSerie	Filmed over a 10-year period, Making a Murderer is an unprecedented real-life thriller about Steven Avery, a DNA exoneree who, while in the midst of exposing corruption in local law enforcement, finds himself the prime suspect in a grisly new crime. Set in America's heartland, the series takes viewers inside a high-stakes criminal case where reputation is everything and things are never as they appear.
+producao	Tunísia
+anoLançamento	2015
+temporada	11
+generoSerie	Documentary
+================
+id		10
+tituloSerie	Billions
+descSerie	A psychologist gets inside of the minds of both killers and victims to aid the police in solving gruesome serial killings in Northern England.
+producao	Madagáscar
+anoLançamento	2016
+temporada	9
+generoSerie	Drama
+================
+id		52
+tituloSerie	Samurai Champloo
+descSerie	Bret and Jemaine are Flight of the Conchords, a folk-rock band from New Zealand living in New York City in search of stardom.
+producao	Faroé
+anoLançamento	2004
+temporada	16
+generoSerie	Animation
+================
+id		43
+tituloSerie	Jesus de Nazaré
+descSerie	Life is a difficult challenge for Mr Bean, who despite being a grown adult, has trouble completing even the simplest of tasks. Thankfully, his perseverance is usually rewarded, and he finds an ingenious way around the problem.
+producao	China
+anoLançamento	1977
+temporada	30
+generoSerie	Biography
+================
+id		81
+tituloSerie	Community
+descSerie	A couple, who were in a long distance relationship for 3 years, face the prospect of getting married.
+producao	Bermudas
+anoLançamento	2009
+temporada	14
+generoSerie	Comedy
+================
+id		47
+tituloSerie	Hagane no renkinjutsushi
+descSerie	An alcoholic man lives in a perpetual stupor while his six children with whom he lives cope as best they can.
+producao	Bermudas
+anoLançamento	2003
+temporada	16
+generoSerie	Animation
+================
+id		99
+tituloSerie	Mushishi
+descSerie	During the Great Depression, an Oklahoma farm boy and a charismatic minister learn that they are key players in a proxy war being fought between Heaven and Hell.
+producao	Ilhas Virgens Americanas
+anoLançamento	2005
+temporada	17
+generoSerie	Animation
+================
+id		71
+tituloSerie	The Angry Video Game Nerd
+descSerie	Satirical newscaster Stephen Colbert provides humorous commentary on the big issues going on in the United States and the rest of the world, with his larger-than-life ego and overly-patriotic spirit along with him every step of the way.
+producao	Fiji
+anoLançamento	2004
+temporada	16
+generoSerie	Comedy
+================
+id		70
+tituloSerie	Utopia
+descSerie	Time and Space traveling adventures of a Gallifreyan Time Lord only known as the Doctor and his companions, traveling through time and space.
+producao	Samoa
+anoLançamento	2013
+temporada	14
+generoSerie	Drama
+================
+id		24
+tituloSerie	Black Mirror
+descSerie	An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.
+producao	Tokelau
+anoLançamento	2011
+temporada	24
+generoSerie	Drama
+================
+id		89
+tituloSerie	Luther
+descSerie	The world of the Vikings is brought to life through the journey of Ragnar Lothbrok, the first Viking to emerge from Norse legend and onto the pages of history - a man on the edge of myth.
+producao	Eslováquia
+anoLançamento	2010
+temporada	20
+generoSerie	Crime
+================
+id		8
+tituloSerie	Dr. Horrible's Sing-Along Blog
+descSerie	A drama about one of New York's most prestigious ad agencies at the beginning of the 1960s, focusing on one of the firm's most mysterious but extremely talented ad executives, Donald Draper.
+producao	Guame
+anoLançamento	2008
+temporada	12
+generoSerie	Comedy
+================
+id		46
+tituloSerie	Pessoa de Interesse
+descSerie	Descrição não disponível.
+producao	Porto Rico
+anoLançamento	2011
+temporada	24
+generoSerie	Action
+================
+id		30
+tituloSerie	Rick and Morty
+descSerie	An animated series that follows the exploits of a super scientist and his not so bright grandson.
+producao	Namíbia
+anoLançamento	2013
+temporada	3
+generoSerie	Animation
+================
+id		11
+tituloSerie	The New Batman Adventures
+descSerie	Bernard Black runs his own bookshop even though he doesn't much like people who buy books and hates having customers. Next door to Bernard's shop is the Nifty Gifty gift shop run by Fran, probably Bernard's only friend in the world. When Bernard's accountant goes on the run Bernard employs stress victim, Manny to help in his shop. This leads to a series of surreal adventures around the shop.
+producao	Benim
+anoLançamento	1997
+temporada	29
+generoSerie	None
+================
+id		92
+tituloSerie	Gravity Falls: Um Verão de Mistérios
+descSerie	North and South is a four part adaptation of Elizabeth Gaskell's love story of Margaret Hale, a middle class southerner who is forced to move to the northern town of Milton.
+producao	Nigéria
+anoLançamento	2012
+temporada	9
+generoSerie	Animation
+================
+id		54
+tituloSerie	Friends
+descSerie	Follows the lives of six 20-something friends living in Manhattan.
+producao	Trindade e Tobago
+anoLançamento	1994
+temporada	12
+generoSerie	Comedy
+================
+id		23
+tituloSerie	Kardes Payi
+descSerie	Mark and Jez are a couple of twenty-something roommates who have nothing in common - except for the fact that their lives are anything but normal. Mayhem ensues as the pair strive to cope with day-to-day life.
+producao	Jersey
+anoLançamento	2014
+temporada	5
+generoSerie	Comedy
+================
+id		6
+tituloSerie	The Office
+descSerie	Teenage superheroes strive to prove themselves as members of the Justice League.
+producao	Macau
+anoLançamento	2001
+temporada	4
+generoSerie	Comedy
+================
+id		1
+tituloSerie	Doctor Who
+descSerie	Jack Bauer comes out of hiding in London to head off a massive terrorist attack while being hunted down by American forces dispatched by President James Heller.
+producao	Nigéria
+anoLançamento	1963
+temporada	28
+generoSerie	Adventure
+================
+id		14
+tituloSerie	The Civil War
+descSerie	A comprehensive survey of the American Civil War.
+producao	Guernsey
+anoLançamento	1990
+temporada	2
+generoSerie	Documentary
+================
+id		91
+tituloSerie	Mr. Show with Bob and David
+descSerie	Bea Smith is locked up while awaiting trial for the attempted murder of her husband and must learn how life works in prison.
+producao	Gaza Strip
+anoLançamento	1995
+temporada	3
+generoSerie	Comedy
+================
+id		68
+tituloSerie	Família Moderna
+descSerie	A suspended lawyer is forced to enroll in a community college with an eclectic staff and student body.
+producao	Japão
+anoLançamento	2009
+temporada	1
+generoSerie	Comedy
+================
+id		35
+tituloSerie	Shameless
+descSerie	Q, Sal, Joe and Murr are real-life best friends who love challenging each other to the most outrageous dares and stunts ever caught on hidden camera.
+producao	República Centro-Africana
+anoLançamento	2011
+temporada	25
+generoSerie	Comedy
+================
+id		4
+tituloSerie	A Sete Palmos
+descSerie	America's top fake news show.
+producao	Indonésia
+anoLançamento	2001
+temporada	18
+generoSerie	Drama
+================
+id		64
+tituloSerie	Através do Buraco de Minhoca
+descSerie	The life and times of Larry David and the predicaments he gets himself in with his friends and complete strangers.
+producao	Tailândia
+anoLançamento	2010
+temporada	26
+generoSerie	Documentary
+================
+id		69
+tituloSerie	O Segredo Além do Jardim
+descSerie	Two brothers find themselves lost in a mysterious land and try to find their way home.
+producao	Jamaica
+anoLançamento	2014
+temporada	17
+generoSerie	Animation
+================
+id		61
+tituloSerie	Top Gear
+descSerie	Dramatized portrayal of the Apollo manned space program.
+producao	Gaza Strip
+anoLançamento	2002
+temporada	10
+generoSerie	Comedy
+================
+id		3
+tituloSerie	Oz
+descSerie	Gon Freecs a young boy aspires to become a Hunter, an exceptionnal being capable of greatness. With his friends and his potential, he seeks for his father who left him when he was younger.
+producao	Suazilândia
+anoLançamento	1997
+temporada	16
+generoSerie	Crime
+================
+id		84
+tituloSerie	Futurama
+descSerie	Watch the story of history's greatest gladiator unfold with graphic violence and the passions of the women that love them. This is Spartacus.
+producao	Honduras
+anoLançamento	1999
+temporada	23
+generoSerie	Animation
+================
+id		27
+tituloSerie	Irmãos de Guerra
+descSerie	The story of Easy Company of the US Army 101st Airborne division and their mission in WWII Europe from Operation Overlord through V-J Day.
+producao	Suriname
+anoLançamento	2001
+temporada	8
+generoSerie	Action
+================
+id		18
+tituloSerie	Hannibal
+descSerie	The futuristic adventures of a female cyborg counter intelligence agent and her support team.
+producao	Cazaquistão
+anoLançamento	2013
+temporada	12
+generoSerie	Crime
+================
+id		60
+tituloSerie	Jane Eyre
+descSerie	Comedy sketches written and performed by renowned duo Stephen Fry and Hugh Laurie.
+producao	Nigéria
+anoLançamento	2006
+temporada	12
+generoSerie	Drama
+================
+id		44
+tituloSerie	Flight of the Conchords
+descSerie	A foul-mouthed nerd reviews bad video games.
+producao	Antígua e Barbuda
+anoLançamento	2007
+temporada	28
+generoSerie	Comedy
+================
+id		95
+tituloSerie	Brigada
+descSerie	Set in the 1960s, the show follows Endeavour Morse in his early years as a police constable. Working alongside his senior partner DI Fred Thursday, Morse engages in a number of investigations around Oxford.
+producao	Paraguai
+anoLançamento	2002
+temporada	2
+generoSerie	Crime
+================
+id		2
+tituloSerie	Monty Python's Flying Circus
+descSerie	The original surreal sketch comedy showcase for the Monty Python troupe.
+producao	São Cristóvão e Neves
+anoLançamento	1969
+temporada	29
+generoSerie	Comedy
+================
+id		75
+tituloSerie	Hellsing Ultimate
+descSerie	A political drama about a prime minister's rise to power, and how power changes a prime minister.
+producao	Bulgária
+anoLançamento	2006
+temporada	8
+generoSerie	Animation
+================
+id		80
+tituloSerie	Kenpû denki beruseruku
+descSerie	A chronicle of the lives of the British aristocratic Crawley family and their servants in the early 20th Century.
+producao	Eslovénia
+anoLançamento	1997
+temporada	10
+generoSerie	Animation
+================
+id		86
+tituloSerie	The Thick of It
+descSerie	Two FBI agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained while hidden forces work to impede their efforts.
+producao	Sudão
+anoLançamento	2005
+temporada	28
+generoSerie	Comedy
+================
+id		13
+tituloSerie	Arquivo X
+descSerie	In the Tudor court of Elizabeth I, Lord Edmund Blackadder strives to win Her Majesty's favour while attempting to avoid a grisly fate should he offend her.
+producao	Guiné
+anoLançamento	1993
+temporada	25
+generoSerie	Drama
+================
+id		83
+tituloSerie	Avatar: A Lenda de Korra
+descSerie	The bizarre animated escapades of pseudo-heroic scientist Dr. Rusty Venture, his competent, high strung bodyguard, and his two over-enthusiastic sons.
+producao	Nicarágua
+anoLançamento	2012
+temporada	10
+generoSerie	Animation
+================
+id		59
+tituloSerie	Endeavour
+descSerie	A dramatization of author Alex Haley's family line from ancestor Kunta Kinte's enslavement to his descendants' liberation.
+producao	Nigéria
+anoLançamento	2012
+temporada	24
+generoSerie	Crime
+================
+id		87
+tituloSerie	Fullmetal Alchemist: Brotherhood
+descSerie	Two brothers search for a Philosopher's Stone after an attempt to revive their deceased mother goes awry and leaves them in damaged physical forms.
+producao	Samoa Americana
+anoLançamento	2009
+temporada	30
+generoSerie	Animation
+================
+id		31
+tituloSerie	Justiça Sem Limites
+descSerie	A young governess falls in love with her brooding and complex master. However, his dark past may destroy their relationship forever.
+producao	Polinésia Francesa
+anoLançamento	2004
+temporada	21
+generoSerie	Comedy
+================
+id		33
+tituloSerie	Mad Men: Inventando Verdades
+descSerie	Fuu, a waitress who works in a teahouse, rescues two master swordsmen, Mugen and Jin, from their execution to help her find the "samurai who smells of sunflowers."
+producao	Guiana
+anoLançamento	2007
+temporada	3
+generoSerie	Drama
+================
+1) Buscar
+2) Dump
+3) Aleatorizar
+0) Sair
+1) Buscar
+2) Dump
+3) Aleatorizar
+0) Sair
+id		12
+tituloSerie	Game of Thrones
+descSerie	While a civil war brews between several noble families in Westeros, the children of the former rulers of the land attempt to rise up to power. Meanwhile a forgotten race, bent on destruction, return after thousands of years in the North.
+producao	Wake Island
+anoLançamento	2011
+temporada	28
+generoSerie	Adventure
+================
+id		85
+tituloSerie	Wire in the Blood
+descSerie	A streetwise hustler is pulled into a compelling conspiracy after witnessing the suicide of a girl who looks just like her.
+producao	Venezuela
+anoLançamento	2002
+temporada	3
+generoSerie	Crime
+================
+id		62
+tituloSerie	The Jinx: The Life and Deaths of Robert Durst
+descSerie	A series chronicling the daily activities of an unusual prison facility and its criminal inhabitants.
+producao	Baamas
+anoLançamento	2015
+temporada	5
+generoSerie	Documentary
+================
+id		67
+tituloSerie	Archer
+descSerie	Matt Murdock, with his other senses superhumanly enhanced, fights crime as a blind Lawyer by day, and vigilante by night.
+producao	Lituânia
+anoLançamento	2009
+temporada	12
+generoSerie	Animation
+================
+id		53
+tituloSerie	Homicide: Life on the Street
+descSerie	After resigning, a secret agent is abducted and taken to what looks like an idyllic village, but is really a bizarre prison. His warders demand information. He gives them nothing, but only tries to escape.
+producao	Mongólia
+anoLançamento	1993
+temporada	11
+generoSerie	Crime
+================
+id		48
+tituloSerie	Downton Abbey
+descSerie	The Elric brothers' deciding to perform a forbidden human transmutation to bring their dead mother back, they end up losing their bodies. Now Edward must find the chemical privileges to restore their body back.
+producao	Coreia do Norte
+anoLançamento	2010
+temporada	8
+generoSerie	Drama
+================
+id		34
+tituloSerie	Black-Adder II
+descSerie	In the future, the Saint Britannian Empire invades Japan and call their inhabitants the "eleven." A child living in the Empire witnesses the death of his mother and the crippling of his little sister. Later he gets caught in an eleven rebel chase and has the opportunity given by a mysterious girl to take his revenge against the Empire by using an obedience power.
+producao	Síria
+anoLançamento	1986
+temporada	22
+generoSerie	Comedy
+================
+id		65
+tituloSerie	Chappelle's Show
+descSerie	A show set in the late 1800s, revolving around the characters of Deadwood, South Dakota; a town of deep corruption and crime.
+producao	Macau
+anoLançamento	2003
+temporada	27
+generoSerie	Comedy
+================
+id		98
+tituloSerie	Outlander
+descSerie	Descrição não disponível.
+producao	Ilhas Virgens Americanas
+anoLançamento	2014
+temporada	4
+generoSerie	Drama
+================
+id		63
+tituloSerie	Samurai Jack
+descSerie	Boston Legal is a spin-off of the long-running Kelley series The Practice, following the exploits of former Practice character Alan Shore (James Spader) at the legal firm of Crane, Poole and Schmidt.
+producao	Senegal
+anoLançamento	2001
+temporada	16
+generoSerie	Animation
+================
+id		49
+tituloSerie	Mr. Robot
+descSerie	Inside the lives of staffers in the west wing of the White House.
+producao	Samoa Americana
+anoLançamento	2015
+temporada	23
+generoSerie	Crime
+================
+id		45
+tituloSerie	Nathan for You
+descSerie	After learning that he is from another planet, a warrior named Goku and his friends are prompted to defend it from an onslaught of extraterrestrial enemies.
+producao	Japão
+anoLançamento	2013
+temporada	30
+generoSerie	Documentary
+================
+id		78
+tituloSerie	Dragon Ball: Doragon bôru
+descSerie	The trials and tribulations of small town Texas football players, their friends, family, and coaching staff.
+producao	Croácia
+anoLançamento	1986
+temporada	28
+generoSerie	Animation
+================
+id		94
+tituloSerie	Battlestar Galactica
+descSerie	A human boy named Finn and adoptive brother and best friend Jake the Dog, protect the citizens of the Land of Ooo from foes of various shapes and sizes.
+producao	Cazaquistão
+anoLançamento	2003
+temporada	16
+generoSerie	Action
+================
+id		88
+tituloSerie	Eu, Cláudio
+descSerie	The history of the Roman Empire as experienced by one of its rulers.
+producao	Suécia
+anoLançamento	1976
+temporada	18
+generoSerie	Drama
+================
+id		29
+tituloSerie	Liga da Justiça
+descSerie	A teenage boy finds himself recruited as a member of an elite team of pilots by his father.
+producao	Eslovénia
+anoLançamento	2001
+temporada	11
+generoSerie	Animation
+================
+id		16
+tituloSerie	Avatar - A Lenda de Aang
+descSerie	In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.
+producao	Porto Rico
+anoLançamento	2005
+temporada	9
+generoSerie	Animation
+================
+id		97
+tituloSerie	Leyla ile Mecnun
+descSerie	Ahmet, Murat and Sadi are actors who dream of shooting a movie and present a documentary called 'Meslek Hikayeleri' in order to make money.
+producao	Tonga
+anoLançamento	2011
+temporada	4
+generoSerie	Adventure
+================
+id		38
+tituloSerie	Police Squad!
+descSerie	A team of mutant superheroes fight for justice and human acceptance in the Marvel Comics universe.
+producao	Santa Helena
+anoLançamento	1982
+temporada	15
+generoSerie	Comedy
+================
+id		56
+tituloSerie	Summer Heights High
+descSerie	Set in 1996 in Lincolnshire, the show tells the tragic and humorous story of a very troubled young girl Rae, who has just left a psychiatric hospital, where she has spent four months after attempting suicide, and begins to reconnect with her best friend Chloe and her group, who are unaware of Rae's mental health and body image problems, believing she was in France for the past four months.
+producao	Singapura
+anoLançamento	2007
+temporada	3
+generoSerie	Comedy
+================
+id		77
+tituloSerie	Only Fools and Horses....
+descSerie	Classic comedy following the misadventures of two Wheeler Dealer brothers Del Boy and Rodney Trotter who scrape their living by selling dodgy goods believing that next year they will be millionaires.
+producao	Haiti
+anoLançamento	1981
+temporada	5
+generoSerie	Comedy
+================
+id		17
+tituloSerie	I Love Lucy
+descSerie	A samurai sent through time fights to return home and save the world.
+producao	Gaza Strip
+anoLançamento	1951
+temporada	3
+generoSerie	Comedy
+================
+id		28
+tituloSerie	Vikings
+descSerie	Alan Partridge a failed television presenter whose previous exploits had featured in the chat-show parody Knowing Me, Knowing You with Alan Partridge, and who is now presenting a programed on local radio in Norwich.
+producao	Áustria
+anoLançamento	2013
+temporada	10
+generoSerie	None
+================
+id		72
+tituloSerie	Spartacus: Deuses da Arena
+descSerie	Series of unrelated short stories covering elements of crime, horror, drama and comedy about people of different species committing murders, suicides, thefts and other sorts of crime caused by certain motivations; perceived or not.
+producao	Jordânia
+anoLançamento	2011
+temporada	9
+generoSerie	Action
+================
+id		40
+tituloSerie	Gomorra - La serie
+descSerie	This parody series is an unearthed 80s horror/drama, complete with poor production values, awful dialogue and hilarious violence. The series is set in a Hospital in Romford, which is situated over the gates of Hell.
+producao	Ilha do Natal
+anoLançamento	2014
+temporada	25
+generoSerie	Crime
+================
+id		9
+tituloSerie	Trigun
+descSerie	A bounty hunter rides the Old West, fighting bad guys, many with futuristic-type gadgets.
+producao	Tokelau
+anoLançamento	1998
+temporada	26
+generoSerie	Animation
+================
+id		74
+tituloSerie	O Mundo em Guerra
+descSerie	A series of documentaries about World War II.
+producao	Bermudas
+anoLançamento	1973
+temporada	19
+generoSerie	Documentary
+================
+id		7
+tituloSerie	Pushing Daisies
+descSerie	Captain James T. Kirk and the crew of the Starship Enterprise explore the galaxy and defend the United Federation of Planets.
+producao	Eslovénia
+anoLançamento	2007
+temporada	30
+generoSerie	Comedy
+================
+id		22
+tituloSerie	It's Always Sunny in Philadelphia
+descSerie	Comedian Dave Chappelle hosts this sketch-comedy show that parodies many of the nuances of race and culture.
+producao	Belize
+anoLançamento	2005
+temporada	1
+generoSerie	Comedy
+================
+id		42
+tituloSerie	Happy Valley
+descSerie	An interweaving narrative chronicling the antics of such diverse characters as: a transsexual taxi driver, a family obsessed with hygiene and toads, a fiery reverend, a carnival owner who kidnaps women into marriage, and a xenophobic couple who run a local shop for local people.
+producao	Finlândia
+anoLançamento	2014
+temporada	24
+generoSerie	Crime
+================
+id		79
+tituloSerie	The Walking Dead
+descSerie	Bertram Wooster, a well-intentioned, wealthy layabout, has a habit of getting himself into trouble and it's up to his brilliant valet, Jeeves, to get him out.
+producao	Eritreia
+anoLançamento	2010
+temporada	8
+generoSerie	Drama
+================
+id		20
+tituloSerie	O Show do Pernalonga
+descSerie	A brilliant neurosurgeon living in Germany finds his life in utter turmoil after getting involved with a psychopath that was once a former patient.
+producao	União Europeia
+anoLançamento	1960
+temporada	30
+generoSerie	Animation
+================
+id		5
+tituloSerie	Louie
+descSerie	Francis Urquhart, Chief Whip, manipulates things and people to achieve his ambitions in the Houses of Parliament, all the while keeping his hand carefully hidden behind the scenes. But Mattie Storin, a young reporter, may be getting too close to him.
+producao	Usbequistão
+anoLançamento	2010
+temporada	5
+generoSerie	Comedy
+================
+id		55
+tituloSerie	Breaking Bad
+descSerie	A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine, with his former student, in order to secure his family's financial future.
+producao	Macedónia
+anoLançamento	2008
+temporada	24
+generoSerie	Crime
+================
+id		58
+tituloSerie	West Wing: Nos Bastidores do Poder
+descSerie	When an old enemy, the Cylons, resurface and obliterate the 12 colonies, the crew of the aged Galactica protect a small civilian fleet - the last of humanity - as they journey toward the fabled 13th colony, Earth.
+producao	Birmânia
+anoLançamento	1999
+temporada	10
+generoSerie	Drama
+================
+id		50
+tituloSerie	Das Boot
+descSerie	A World War II German U-Boat crew have a terrifying patrol mission in the early days of the war.
+producao	Irão
+anoLançamento	1985
+temporada	7
+generoSerie	Drama
+================
+id		15
+tituloSerie	Long Way Round
+descSerie	Follows the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.
+producao	Polinésia Francesa
+anoLançamento	2004
+temporada	13
+generoSerie	Documentary
+================
+id		37
+tituloSerie	Fawlty Towers
+descSerie	Hotel owner Basil Fawlty's incompetence, short fuse, and arrogance form a combination that ensures accidents and trouble are never far away.
+producao	Guernsey
+anoLançamento	1975
+temporada	11
+generoSerie	Comedy
+================
+id		76
+tituloSerie	Suits
+descSerie	The adventures of a young wandering swordsman who stumbles upon a struggling martial arts school in Meiji era Japan.
+producao	Coreia do Norte
+anoLançamento	2011
+temporada	18
+generoSerie	Comedy
+================
+id		32
+tituloSerie	Sherlock
+descSerie	A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.
+producao	Singapura
+anoLançamento	2010
+temporada	1
+generoSerie	Crime
+================
+id		90
+tituloSerie	Wan pîsu: One Piece
+descSerie	The further adventures of the time traveling alien adventurer and his companions.
+producao	Suazilândia
+anoLançamento	1999
+temporada	6
+generoSerie	Animation
+================
+id		39
+tituloSerie	Last Week Tonight with John Oliver
+descSerie	Former Daily Show Correspondent John Oliver brings his persona to this new weekly news satire program.
+producao	Venezuela
+anoLançamento	2014
+temporada	6
+generoSerie	Comedy
+================
+id		73
+tituloSerie	TVF Pitchers
+descSerie	A story of trials and tribulations of four young entrepreneurs who quit their day jobs in order to pursue their start up venture.
+producao	Mali
+anoLançamento	2015
+temporada	8
+generoSerie	Comedy
+================
+id		96
+tituloSerie	Yes Minister
+descSerie	An aspiring supervillain must balance his career and his pursuit of a beautiful do-gooder.
+producao	Coral Sea Islands
+anoLançamento	1980
+temporada	27
+generoSerie	Comedy
+================
+id		51
+tituloSerie	Arrested Development
+descSerie	Level-headed son Michael Bluth takes over family affairs after his father is imprisoned. But the rest of his spoiled, dysfunctional family are making his job unbearable.
+producao	Dinamarca
+anoLançamento	2003
+temporada	10
+generoSerie	Comedy
+================
+id		66
+tituloSerie	Os Simpsons
+descSerie	The satiric adventures of a working-class family in the misfit city of Springfield.
+producao	Listenstaine
+anoLançamento	1989
+temporada	5
+generoSerie	Animation
+================
+id		25
+tituloSerie	The Adventures of Sherlock Holmes
+descSerie	A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, and tedium. Based on the hit BBC series.
+producao	República Dominicana
+anoLançamento	1984
+temporada	27
+generoSerie	Crime
+================
+id		19
+tituloSerie	Borgen
+descSerie	The lives of Police Officers working for the Los Angeles Police Department.
+producao	Ilhas Heard e McDonald
+anoLançamento	2010
+temporada	1
+generoSerie	Drama
+================
+id		0
+tituloSerie	Cranford
+descSerie	In February of 2009, Toei Animation announced that as an honor to 20 years of Dragon Ball Z, they will begin the production of a renewed DragonBall Z, named Dragon Ball Kai. This new anime chronicles the plot of DBZ and consists of parts from the original anime which are edited to a better quality and with new voices. Toei Animation also confirmed that the plot of DBK will be closer to manga style.
+producao	Indonésia
+anoLançamento	2007
+temporada	25
+generoSerie	Drama
+================
+id		21
+tituloSerie	Ataque dos Titãs
+descSerie	The trials and tribulations of criminal lawyer, Jimmy McGill, in the time leading up to establishing his strip-mall law office in Albuquerque, New Mexico.
+producao	Afeganistão
+anoLançamento	2013
+temporada	24
+generoSerie	Animation
+================
+id		26
+tituloSerie	Dragon Ball
+descSerie	The absurd antics of an Indiana town's public officials as they pursue sundry projects to make their city a better place.
+producao	Arménia
+anoLançamento	1995
+temporada	28
+generoSerie	Animation
+================
+id		36
+tituloSerie	Sobrenatural
+descSerie	Follows four friends and their antics during their final years of school.
+producao	Israel
+anoLançamento	2005
+temporada	3
+generoSerie	Drama
+================
+id		57
+tituloSerie	Coupling
+descSerie	On the run from a drug deal gone bad, Mike Ross, a brilliant college-dropout, finds himself a job working with Harvey Specter, one of New York City's best lawyers.
+producao	Sudão
+anoLançamento	2000
+temporada	16
+generoSerie	Comedy
+================
+id		82
+tituloSerie	X-Men
+descSerie	Sheriff Deputy Rick Grimes leads a group of survivors in a world overrun by the walking dead. Fighting the dead, fearing the living.
+producao	Macedónia
+anoLançamento	1992
+temporada	18
+generoSerie	Animation
+================
+id		93
+tituloSerie	The Night Manager
+descSerie	Lucas Hood (Antony Starr), an ex-con and master thief assumes the identity of a murdered sheriff where he continues his criminal activities. His past seems to haunt him by those he betrayed years earlier. This ex-con imposes his own brand of justice where violence erupts at every turn in the not so quiet Amish town, Banshee, Pennsylvania.
+producao	Noruega
+anoLançamento	2016
+temporada	30
+generoSerie	Crime
+================
+id		41
+tituloSerie	Making a Murderer
+descSerie	Filmed over a 10-year period, Making a Murderer is an unprecedented real-life thriller about Steven Avery, a DNA exoneree who, while in the midst of exposing corruption in local law enforcement, finds himself the prime suspect in a grisly new crime. Set in America's heartland, the series takes viewers inside a high-stakes criminal case where reputation is everything and things are never as they appear.
+producao	Tunísia
+anoLançamento	2015
+temporada	11
+generoSerie	Documentary
+================
+id		10
+tituloSerie	Billions
+descSerie	A psychologist gets inside of the minds of both killers and victims to aid the police in solving gruesome serial killings in Northern England.
+producao	Madagáscar
+anoLançamento	2016
+temporada	9
+generoSerie	Drama
+================
+id		52
+tituloSerie	Samurai Champloo
+descSerie	Bret and Jemaine are Flight of the Conchords, a folk-rock band from New Zealand living in New York City in search of stardom.
+producao	Faroé
+anoLançamento	2004
+temporada	16
+generoSerie	Animation
+================
+id		43
+tituloSerie	Jesus de Nazaré
+descSerie	Life is a difficult challenge for Mr Bean, who despite being a grown adult, has trouble completing even the simplest of tasks. Thankfully, his perseverance is usually rewarded, and he finds an ingenious way around the problem.
+producao	China
+anoLançamento	1977
+temporada	30
+generoSerie	Biography
+================
+id		81
+tituloSerie	Community
+descSerie	A couple, who were in a long distance relationship for 3 years, face the prospect of getting married.
+producao	Bermudas
+anoLançamento	2009
+temporada	14
+generoSerie	Comedy
+================
+id		47
+tituloSerie	Hagane no renkinjutsushi
+descSerie	An alcoholic man lives in a perpetual stupor while his six children with whom he lives cope as best they can.
+producao	Bermudas
+anoLançamento	2003
+temporada	16
+generoSerie	Animation
+================
+id		99
+tituloSerie	Mushishi
+descSerie	During the Great Depression, an Oklahoma farm boy and a charismatic minister learn that they are key players in a proxy war being fought between Heaven and Hell.
+producao	Ilhas Virgens Americanas
+anoLançamento	2005
+temporada	17
+generoSerie	Animation
+================
+id		71
+tituloSerie	The Angry Video Game Nerd
+descSerie	Satirical newscaster Stephen Colbert provides humorous commentary on the big issues going on in the United States and the rest of the world, with his larger-than-life ego and overly-patriotic spirit along with him every step of the way.
+producao	Fiji
+anoLançamento	2004
+temporada	16
+generoSerie	Comedy
+================
+id		70
+tituloSerie	Utopia
+descSerie	Time and Space traveling adventures of a Gallifreyan Time Lord only known as the Doctor and his companions, traveling through time and space.
+producao	Samoa
+anoLançamento	2013
+temporada	14
+generoSerie	Drama
+================
+id		24
+tituloSerie	Black Mirror
+descSerie	An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.
+producao	Tokelau
+anoLançamento	2011
+temporada	24
+generoSerie	Drama
+================
+id		89
+tituloSerie	Luther
+descSerie	The world of the Vikings is brought to life through the journey of Ragnar Lothbrok, the first Viking to emerge from Norse legend and onto the pages of history - a man on the edge of myth.
+producao	Eslováquia
+anoLançamento	2010
+temporada	20
+generoSerie	Crime
+================
+id		8
+tituloSerie	Dr. Horrible's Sing-Along Blog
+descSerie	A drama about one of New York's most prestigious ad agencies at the beginning of the 1960s, focusing on one of the firm's most mysterious but extremely talented ad executives, Donald Draper.
+producao	Guame
+anoLançamento	2008
+temporada	12
+generoSerie	Comedy
+================
+id		46
+tituloSerie	Pessoa de Interesse
+descSerie	Descrição não disponível.
+producao	Porto Rico
+anoLançamento	2011
+temporada	24
+generoSerie	Action
+================
+id		30
+tituloSerie	Rick and Morty
+descSerie	An animated series that follows the exploits of a super scientist and his not so bright grandson.
+producao	Namíbia
+anoLançamento	2013
+temporada	3
+generoSerie	Animation
+================
+id		11
+tituloSerie	The New Batman Adventures
+descSerie	Bernard Black runs his own bookshop even though he doesn't much like people who buy books and hates having customers. Next door to Bernard's shop is the Nifty Gifty gift shop run by Fran, probably Bernard's only friend in the world. When Bernard's accountant goes on the run Bernard employs stress victim, Manny to help in his shop. This leads to a series of surreal adventures around the shop.
+producao	Benim
+anoLançamento	1997
+temporada	29
+generoSerie	None
+================
+id		92
+tituloSerie	Gravity Falls: Um Verão de Mistérios
+descSerie	North and South is a four part adaptation of Elizabeth Gaskell's love story of Margaret Hale, a middle class southerner who is forced to move to the northern town of Milton.
+producao	Nigéria
+anoLançamento	2012
+temporada	9
+generoSerie	Animation
+================
+id		54
+tituloSerie	Friends
+descSerie	Follows the lives of six 20-something friends living in Manhattan.
+producao	Trindade e Tobago
+anoLançamento	1994
+temporada	12
+generoSerie	Comedy
+================
+id		23
+tituloSerie	Kardes Payi
+descSerie	Mark and Jez are a couple of twenty-something roommates who have nothing in common - except for the fact that their lives are anything but normal. Mayhem ensues as the pair strive to cope with day-to-day life.
+producao	Jersey
+anoLançamento	2014
+temporada	5
+generoSerie	Comedy
+================
+id		6
+tituloSerie	The Office
+descSerie	Teenage superheroes strive to prove themselves as members of the Justice League.
+producao	Macau
+anoLançamento	2001
+temporada	4
+generoSerie	Comedy
+================
+id		1
+tituloSerie	Doctor Who
+descSerie	Jack Bauer comes out of hiding in London to head off a massive terrorist attack while being hunted down by American forces dispatched by President James Heller.
+producao	Nigéria
+anoLançamento	1963
+temporada	28
+generoSerie	Adventure
+================
+id		14
+tituloSerie	The Civil War
+descSerie	A comprehensive survey of the American Civil War.
+producao	Guernsey
+anoLançamento	1990
+temporada	2
+generoSerie	Documentary
+================
+id		91
+tituloSerie	Mr. Show with Bob and David
+descSerie	Bea Smith is locked up while awaiting trial for the attempted murder of her husband and must learn how life works in prison.
+producao	Gaza Strip
+anoLançamento	1995
+temporada	3
+generoSerie	Comedy
+================
+id		68
+tituloSerie	Família Moderna
+descSerie	A suspended lawyer is forced to enroll in a community college with an eclectic staff and student body.
+producao	Japão
+anoLançamento	2009
+temporada	1
+generoSerie	Comedy
+================
+id		35
+tituloSerie	Shameless
+descSerie	Q, Sal, Joe and Murr are real-life best friends who love challenging each other to the most outrageous dares and stunts ever caught on hidden camera.
+producao	República Centro-Africana
+anoLançamento	2011
+temporada	25
+generoSerie	Comedy
+================
+id		4
+tituloSerie	A Sete Palmos
+descSerie	America's top fake news show.
+producao	Indonésia
+anoLançamento	2001
+temporada	18
+generoSerie	Drama
+================
+id		64
+tituloSerie	Através do Buraco de Minhoca
+descSerie	The life and times of Larry David and the predicaments he gets himself in with his friends and complete strangers.
+producao	Tailândia
+anoLançamento	2010
+temporada	26
+generoSerie	Documentary
+================
+id		69
+tituloSerie	O Segredo Além do Jardim
+descSerie	Two brothers find themselves lost in a mysterious land and try to find their way home.
+producao	Jamaica
+anoLançamento	2014
+temporada	17
+generoSerie	Animation
+================
+id		61
+tituloSerie	Top Gear
+descSerie	Dramatized portrayal of the Apollo manned space program.
+producao	Gaza Strip
+anoLançamento	2002
+temporada	10
+generoSerie	Comedy
+================
+id		3
+tituloSerie	Oz
+descSerie	Gon Freecs a young boy aspires to become a Hunter, an exceptionnal being capable of greatness. With his friends and his potential, he seeks for his father who left him when he was younger.
+producao	Suazilândia
+anoLançamento	1997
+temporada	16
+generoSerie	Crime
+================
+id		84
+tituloSerie	Futurama
+descSerie	Watch the story of history's greatest gladiator unfold with graphic violence and the passions of the women that love them. This is Spartacus.
+producao	Honduras
+anoLançamento	1999
+temporada	23
+generoSerie	Animation
+================
+id		27
+tituloSerie	Irmãos de Guerra
+descSerie	The story of Easy Company of the US Army 101st Airborne division and their mission in WWII Europe from Operation Overlord through V-J Day.
+producao	Suriname
+anoLançamento	2001
+temporada	8
+generoSerie	Action
+================
+id		18
+tituloSerie	Hannibal
+descSerie	The futuristic adventures of a female cyborg counter intelligence agent and her support team.
+producao	Cazaquistão
+anoLançamento	2013
+temporada	12
+generoSerie	Crime
+================
+id		60
+tituloSerie	Jane Eyre
+descSerie	Comedy sketches written and performed by renowned duo Stephen Fry and Hugh Laurie.
+producao	Nigéria
+anoLançamento	2006
+temporada	12
+generoSerie	Drama
+================
+id		44
+tituloSerie	Flight of the Conchords
+descSerie	A foul-mouthed nerd reviews bad video games.
+producao	Antígua e Barbuda
+anoLançamento	2007
+temporada	28
+generoSerie	Comedy
+================
+id		95
+tituloSerie	Brigada
+descSerie	Set in the 1960s, the show follows Endeavour Morse in his early years as a police constable. Working alongside his senior partner DI Fred Thursday, Morse engages in a number of investigations around Oxford.
+producao	Paraguai
+anoLançamento	2002
+temporada	2
+generoSerie	Crime
+================
+id		2
+tituloSerie	Monty Python's Flying Circus
+descSerie	The original surreal sketch comedy showcase for the Monty Python troupe.
+producao	São Cristóvão e Neves
+anoLançamento	1969
+temporada	29
+generoSerie	Comedy
+================
+id		75
+tituloSerie	Hellsing Ultimate
+descSerie	A political drama about a prime minister's rise to power, and how power changes a prime minister.
+producao	Bulgária
+anoLançamento	2006
+temporada	8
+generoSerie	Animation
+================
+id		80
+tituloSerie	Kenpû denki beruseruku
+descSerie	A chronicle of the lives of the British aristocratic Crawley family and their servants in the early 20th Century.
+producao	Eslovénia
+anoLançamento	1997
+temporada	10
+generoSerie	Animation
+================
+id		86
+tituloSerie	The Thick of It
+descSerie	Two FBI agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained while hidden forces work to impede their efforts.
+producao	Sudão
+anoLançamento	2005
+temporada	28
+generoSerie	Comedy
+================
+id		13
+tituloSerie	Arquivo X
+descSerie	In the Tudor court of Elizabeth I, Lord Edmund Blackadder strives to win Her Majesty's favour while attempting to avoid a grisly fate should he offend her.
+producao	Guiné
+anoLançamento	1993
+temporada	25
+generoSerie	Drama
+================
+id		83
+tituloSerie	Avatar: A Lenda de Korra
+descSerie	The bizarre animated escapades of pseudo-heroic scientist Dr. Rusty Venture, his competent, high strung bodyguard, and his two over-enthusiastic sons.
+producao	Nicarágua
+anoLançamento	2012
+temporada	10
+generoSerie	Animation
+================
+id		59
+tituloSerie	Endeavour
+descSerie	A dramatization of author Alex Haley's family line from ancestor Kunta Kinte's enslavement to his descendants' liberation.
+producao	Nigéria
+anoLançamento	2012
+temporada	24
+generoSerie	Crime
+================
+id		87
+tituloSerie	Fullmetal Alchemist: Brotherhood
+descSerie	Two brothers search for a Philosopher's Stone after an attempt to revive their deceased mother goes awry and leaves them in damaged physical forms.
+producao	Samoa Americana
+anoLançamento	2009
+temporada	30
+generoSerie	Animation
+================
+id		31
+tituloSerie	Justiça Sem Limites
+descSerie	A young governess falls in love with her brooding and complex master. However, his dark past may destroy their relationship forever.
+producao	Polinésia Francesa
+anoLançamento	2004
+temporada	21
+generoSerie	Comedy
+================
+id		33
+tituloSerie	Mad Men: Inventando Verdades
+descSerie	Fuu, a waitress who works in a teahouse, rescues two master swordsmen, Mugen and Jin, from their execution to help her find the "samurai who smells of sunflowers."
+producao	Guiana
+anoLançamento	2007
+temporada	3
+generoSerie	Drama
+================
+1) Buscar
+2) Dump
+3) Aleatorizar
+0) Sair
+Digite o id a ser buscado: ID não encontrado.
+1) Buscar
+2) Dump
+3) Aleatorizar
+0) Sair
+1) Buscar
+2) Dump
+3) Aleatorizar
+0) Sair
+Digite o id a ser buscado: ID não encontrado.
+1) Buscar
+2) Dump
+3) Aleatorizar
+0) Sair
+id		12
+tituloSerie	Game of Thrones
+descSerie	While a civil war brews between several noble families in Westeros, the children of the former rulers of the land attempt to rise up to power. Meanwhile a forgotten race, bent on destruction, return after thousands of years in the North.
+producao	Wake Island
+anoLançamento	2011
+temporada	28
+generoSerie	Adventure
+================
+id		85
+tituloSerie	Wire in the Blood
+descSerie	A streetwise hustler is pulled into a compelling conspiracy after witnessing the suicide of a girl who looks just like her.
+producao	Venezuela
+anoLançamento	2002
+temporada	3
+generoSerie	Crime
+================
+id		62
+tituloSerie	The Jinx: The Life and Deaths of Robert Durst
+descSerie	A series chronicling the daily activities of an unusual prison facility and its criminal inhabitants.
+producao	Baamas
+anoLançamento	2015
+temporada	5
+generoSerie	Documentary
+================
+id		67
+tituloSerie	Archer
+descSerie	Matt Murdock, with his other senses superhumanly enhanced, fights crime as a blind Lawyer by day, and vigilante by night.
+producao	Lituânia
+anoLançamento	2009
+temporada	12
+generoSerie	Animation
+================
+id		53
+tituloSerie	Homicide: Life on the Street
+descSerie	After resigning, a secret agent is abducted and taken to what looks like an idyllic village, but is really a bizarre prison. His warders demand information. He gives them nothing, but only tries to escape.
+producao	Mongólia
+anoLançamento	1993
+temporada	11
+generoSerie	Crime
+================
+id		48
+tituloSerie	Downton Abbey
+descSerie	The Elric brothers' deciding to perform a forbidden human transmutation to bring their dead mother back, they end up losing their bodies. Now Edward must find the chemical privileges to restore their body back.
+producao	Coreia do Norte
+anoLançamento	2010
+temporada	8
+generoSerie	Drama
+================
+id		34
+tituloSerie	Black-Adder II
+descSerie	In the future, the Saint Britannian Empire invades Japan and call their inhabitants the "eleven." A child living in the Empire witnesses the death of his mother and the crippling of his little sister. Later he gets caught in an eleven rebel chase and has the opportunity given by a mysterious girl to take his revenge against the Empire by using an obedience power.
+producao	Síria
+anoLançamento	1986
+temporada	22
+generoSerie	Comedy
+================
+id		65
+tituloSerie	Chappelle's Show
+descSerie	A show set in the late 1800s, revolving around the characters of Deadwood, South Dakota; a town of deep corruption and crime.
+producao	Macau
+anoLançamento	2003
+temporada	27
+generoSerie	Comedy
+================
+id		98
+tituloSerie	Outlander
+descSerie	Descrição não disponível.
+producao	Ilhas Virgens Americanas
+anoLançamento	2014
+temporada	4
+generoSerie	Drama
+================
+id		63
+tituloSerie	Samurai Jack
+descSerie	Boston Legal is a spin-off of the long-running Kelley series The Practice, following the exploits of former Practice character Alan Shore (James Spader) at the legal firm of Crane, Poole and Schmidt.
+producao	Senegal
+anoLançamento	2001
+temporada	16
+generoSerie	Animation
+================
+id		49
+tituloSerie	Mr. Robot
+descSerie	Inside the lives of staffers in the west wing of the White House.
+producao	Samoa Americana
+anoLançamento	2015
+temporada	23
+generoSerie	Crime
+================
+id		45
+tituloSerie	Nathan for You
+descSerie	After learning that he is from another planet, a warrior named Goku and his friends are prompted to defend it from an onslaught of extraterrestrial enemies.
+producao	Japão
+anoLançamento	2013
+temporada	30
+generoSerie	Documentary
+================
+id		78
+tituloSerie	Dragon Ball: Doragon bôru
+descSerie	The trials and tribulations of small town Texas football players, their friends, family, and coaching staff.
+producao	Croácia
+anoLançamento	1986
+temporada	28
+generoSerie	Animation
+================
+id		94
+tituloSerie	Battlestar Galactica
+descSerie	A human boy named Finn and adoptive brother and best friend Jake the Dog, protect the citizens of the Land of Ooo from foes of various shapes and sizes.
+producao	Cazaquistão
+anoLançamento	2003
+temporada	16
+generoSerie	Action
+================
+id		88
+tituloSerie	Eu, Cláudio
+descSerie	The history of the Roman Empire as experienced by one of its rulers.
+producao	Suécia
+anoLançamento	1976
+temporada	18
+generoSerie	Drama
+================
+id		29
+tituloSerie	Liga da Justiça
+descSerie	A teenage boy finds himself recruited as a member of an elite team of pilots by his father.
+producao	Eslovénia
+anoLançamento	2001
+temporada	11
+generoSerie	Animation
+================
+id		16
+tituloSerie	Avatar - A Lenda de Aang
+descSerie	In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.
+producao	Porto Rico
+anoLançamento	2005
+temporada	9
+generoSerie	Animation
+================
+id		97
+tituloSerie	Leyla ile Mecnun
+descSerie	Ahmet, Murat and Sadi are actors who dream of shooting a movie and present a documentary called 'Meslek Hikayeleri' in order to make money.
+producao	Tonga
+anoLançamento	2011
+temporada	4
+generoSerie	Adventure
+================
+id		38
+tituloSerie	Police Squad!
+descSerie	A team of mutant superheroes fight for justice and human acceptance in the Marvel Comics universe.
+producao	Santa Helena
+anoLançamento	1982
+temporada	15
+generoSerie	Comedy
+================
+id		56
+tituloSerie	Summer Heights High
+descSerie	Set in 1996 in Lincolnshire, the show tells the tragic and humorous story of a very troubled young girl Rae, who has just left a psychiatric hospital, where she has spent four months after attempting suicide, and begins to reconnect with her best friend Chloe and her group, who are unaware of Rae's mental health and body image problems, believing she was in France for the past four months.
+producao	Singapura
+anoLançamento	2007
+temporada	3
+generoSerie	Comedy
+================
+id		77
+tituloSerie	Only Fools and Horses....
+descSerie	Classic comedy following the misadventures of two Wheeler Dealer brothers Del Boy and Rodney Trotter who scrape their living by selling dodgy goods believing that next year they will be millionaires.
+producao	Haiti
+anoLançamento	1981
+temporada	5
+generoSerie	Comedy
+================
+id		17
+tituloSerie	I Love Lucy
+descSerie	A samurai sent through time fights to return home and save the world.
+producao	Gaza Strip
+anoLançamento	1951
+temporada	3
+generoSerie	Comedy
+================
+id		28
+tituloSerie	Vikings
+descSerie	Alan Partridge a failed television presenter whose previous exploits had featured in the chat-show parody Knowing Me, Knowing You with Alan Partridge, and who is now presenting a programed on local radio in Norwich.
+producao	Áustria
+anoLançamento	2013
+temporada	10
+generoSerie	None
+================
+id		72
+tituloSerie	Spartacus: Deuses da Arena
+descSerie	Series of unrelated short stories covering elements of crime, horror, drama and comedy about people of different species committing murders, suicides, thefts and other sorts of crime caused by certain motivations; perceived or not.
+producao	Jordânia
+anoLançamento	2011
+temporada	9
+generoSerie	Action
+================
+id		40
+tituloSerie	Gomorra - La serie
+descSerie	This parody series is an unearthed 80s horror/drama, complete with poor production values, awful dialogue and hilarious violence. The series is set in a Hospital in Romford, which is situated over the gates of Hell.
+producao	Ilha do Natal
+anoLançamento	2014
+temporada	25
+generoSerie	Crime
+================
+id		9
+tituloSerie	Trigun
+descSerie	A bounty hunter rides the Old West, fighting bad guys, many with futuristic-type gadgets.
+producao	Tokelau
+anoLançamento	1998
+temporada	26
+generoSerie	Animation
+================
+id		74
+tituloSerie	O Mundo em Guerra
+descSerie	A series of documentaries about World War II.
+producao	Bermudas
+anoLançamento	1973
+temporada	19
+generoSerie	Documentary
+================
+id		7
+tituloSerie	Pushing Daisies
+descSerie	Captain James T. Kirk and the crew of the Starship Enterprise explore the galaxy and defend the United Federation of Planets.
+producao	Eslovénia
+anoLançamento	2007
+temporada	30
+generoSerie	Comedy
+================
+id		22
+tituloSerie	It's Always Sunny in Philadelphia
+descSerie	Comedian Dave Chappelle hosts this sketch-comedy show that parodies many of the nuances of race and culture.
+producao	Belize
+anoLançamento	2005
+temporada	1
+generoSerie	Comedy
+================
+id		42
+tituloSerie	Happy Valley
+descSerie	An interweaving narrative chronicling the antics of such diverse characters as: a transsexual taxi driver, a family obsessed with hygiene and toads, a fiery reverend, a carnival owner who kidnaps women into marriage, and a xenophobic couple who run a local shop for local people.
+producao	Finlândia
+anoLançamento	2014
+temporada	24
+generoSerie	Crime
+================
+id		79
+tituloSerie	The Walking Dead
+descSerie	Bertram Wooster, a well-intentioned, wealthy layabout, has a habit of getting himself into trouble and it's up to his brilliant valet, Jeeves, to get him out.
+producao	Eritreia
+anoLançamento	2010
+temporada	8
+generoSerie	Drama
+================
+id		20
+tituloSerie	O Show do Pernalonga
+descSerie	A brilliant neurosurgeon living in Germany finds his life in utter turmoil after getting involved with a psychopath that was once a former patient.
+producao	União Europeia
+anoLançamento	1960
+temporada	30
+generoSerie	Animation
+================
+id		5
+tituloSerie	Louie
+descSerie	Francis Urquhart, Chief Whip, manipulates things and people to achieve his ambitions in the Houses of Parliament, all the while keeping his hand carefully hidden behind the scenes. But Mattie Storin, a young reporter, may be getting too close to him.
+producao	Usbequistão
+anoLançamento	2010
+temporada	5
+generoSerie	Comedy
+================
+id		55
+tituloSerie	Breaking Bad
+descSerie	A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine, with his former student, in order to secure his family's financial future.
+producao	Macedónia
+anoLançamento	2008
+temporada	24
+generoSerie	Crime
+================
+id		58
+tituloSerie	West Wing: Nos Bastidores do Poder
+descSerie	When an old enemy, the Cylons, resurface and obliterate the 12 colonies, the crew of the aged Galactica protect a small civilian fleet - the last of humanity - as they journey toward the fabled 13th colony, Earth.
+producao	Birmânia
+anoLançamento	1999
+temporada	10
+generoSerie	Drama
+================
+id		50
+tituloSerie	Das Boot
+descSerie	A World War II German U-Boat crew have a terrifying patrol mission in the early days of the war.
+producao	Irão
+anoLançamento	1985
+temporada	7
+generoSerie	Drama
+================
+id		15
+tituloSerie	Long Way Round
+descSerie	Follows the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.
+producao	Polinésia Francesa
+anoLançamento	2004
+temporada	13
+generoSerie	Documentary
+================
+id		37
+tituloSerie	Fawlty Towers
+descSerie	Hotel owner Basil Fawlty's incompetence, short fuse, and arrogance form a combination that ensures accidents and trouble are never far away.
+producao	Guernsey
+anoLançamento	1975
+temporada	11
+generoSerie	Comedy
+================
+id		76
+tituloSerie	Suits
+descSerie	The adventures of a young wandering swordsman who stumbles upon a struggling martial arts school in Meiji era Japan.
+producao	Coreia do Norte
+anoLançamento	2011
+temporada	18
+generoSerie	Comedy
+================
+id		32
+tituloSerie	Sherlock
+descSerie	A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.
+producao	Singapura
+anoLançamento	2010
+temporada	1
+generoSerie	Crime
+================
+id		90
+tituloSerie	Wan pîsu: One Piece
+descSerie	The further adventures of the time traveling alien adventurer and his companions.
+producao	Suazilândia
+anoLançamento	1999
+temporada	6
+generoSerie	Animation
+================
+id		39
+tituloSerie	Last Week Tonight with John Oliver
+descSerie	Former Daily Show Correspondent John Oliver brings his persona to this new weekly news satire program.
+producao	Venezuela
+anoLançamento	2014
+temporada	6
+generoSerie	Comedy
+================
+id		73
+tituloSerie	TVF Pitchers
+descSerie	A story of trials and tribulations of four young entrepreneurs who quit their day jobs in order to pursue their start up venture.
+producao	Mali
+anoLançamento	2015
+temporada	8
+generoSerie	Comedy
+================
+id		96
+tituloSerie	Yes Minister
+descSerie	An aspiring supervillain must balance his career and his pursuit of a beautiful do-gooder.
+producao	Coral Sea Islands
+anoLançamento	1980
+temporada	27
+generoSerie	Comedy
+================
+id		51
+tituloSerie	Arrested Development
+descSerie	Level-headed son Michael Bluth takes over family affairs after his father is imprisoned. But the rest of his spoiled, dysfunctional family are making his job unbearable.
+producao	Dinamarca
+anoLançamento	2003
+temporada	10
+generoSerie	Comedy
+================
+id		66
+tituloSerie	Os Simpsons
+descSerie	The satiric adventures of a working-class family in the misfit city of Springfield.
+producao	Listenstaine
+anoLançamento	1989
+temporada	5
+generoSerie	Animation
+================
+id		25
+tituloSerie	The Adventures of Sherlock Holmes
+descSerie	A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, and tedium. Based on the hit BBC series.
+producao	República Dominicana
+anoLançamento	1984
+temporada	27
+generoSerie	Crime
+================
+id		19
+tituloSerie	Borgen
+descSerie	The lives of Police Officers working for the Los Angeles Police Department.
+producao	Ilhas Heard e McDonald
+anoLançamento	2010
+temporada	1
+generoSerie	Drama
+================
+id		0
+tituloSerie	Cranford
+descSerie	In February of 2009, Toei Animation announced that as an honor to 20 years of Dragon Ball Z, they will begin the production of a renewed DragonBall Z, named Dragon Ball Kai. This new anime chronicles the plot of DBZ and consists of parts from the original anime which are edited to a better quality and with new voices. Toei Animation also confirmed that the plot of DBK will be closer to manga style.
+producao	Indonésia
+anoLançamento	2007
+temporada	25
+generoSerie	Drama
+================
+id		21
+tituloSerie	Ataque dos Titãs
+descSerie	The trials and tribulations of criminal lawyer, Jimmy McGill, in the time leading up to establishing his strip-mall law office in Albuquerque, New Mexico.
+producao	Afeganistão
+anoLançamento	2013
+temporada	24
+generoSerie	Animation
+================
+id		26
+tituloSerie	Dragon Ball
+descSerie	The absurd antics of an Indiana town's public officials as they pursue sundry projects to make their city a better place.
+producao	Arménia
+anoLançamento	1995
+temporada	28
+generoSerie	Animation
+================
+id		36
+tituloSerie	Sobrenatural
+descSerie	Follows four friends and their antics during their final years of school.
+producao	Israel
+anoLançamento	2005
+temporada	3
+generoSerie	Drama
+================
+id		57
+tituloSerie	Coupling
+descSerie	On the run from a drug deal gone bad, Mike Ross, a brilliant college-dropout, finds himself a job working with Harvey Specter, one of New York City's best lawyers.
+producao	Sudão
+anoLançamento	2000
+temporada	16
+generoSerie	Comedy
+================
+id		82
+tituloSerie	X-Men
+descSerie	Sheriff Deputy Rick Grimes leads a group of survivors in a world overrun by the walking dead. Fighting the dead, fearing the living.
+producao	Macedónia
+anoLançamento	1992
+temporada	18
+generoSerie	Animation
+================
+id		93
+tituloSerie	The Night Manager
+descSerie	Lucas Hood (Antony Starr), an ex-con and master thief assumes the identity of a murdered sheriff where he continues his criminal activities. His past seems to haunt him by those he betrayed years earlier. This ex-con imposes his own brand of justice where violence erupts at every turn in the not so quiet Amish town, Banshee, Pennsylvania.
+producao	Noruega
+anoLançamento	2016
+temporada	30
+generoSerie	Crime
+================
+id		41
+tituloSerie	Making a Murderer
+descSerie	Filmed over a 10-year period, Making a Murderer is an unprecedented real-life thriller about Steven Avery, a DNA exoneree who, while in the midst of exposing corruption in local law enforcement, finds himself the prime suspect in a grisly new crime. Set in America's heartland, the series takes viewers inside a high-stakes criminal case where reputation is everything and things are never as they appear.
+producao	Tunísia
+anoLançamento	2015
+temporada	11
+generoSerie	Documentary
+================
+id		10
+tituloSerie	Billions
+descSerie	A psychologist gets inside of the minds of both killers and victims to aid the police in solving gruesome serial killings in Northern England.
+producao	Madagáscar
+anoLançamento	2016
+temporada	9
+generoSerie	Drama
+================
+id		52
+tituloSerie	Samurai Champloo
+descSerie	Bret and Jemaine are Flight of the Conchords, a folk-rock band from New Zealand living in New York City in search of stardom.
+producao	Faroé
+anoLançamento	2004
+temporada	16
+generoSerie	Animation
+================
+id		43
+tituloSerie	Jesus de Nazaré
+descSerie	Life is a difficult challenge for Mr Bean, who despite being a grown adult, has trouble completing even the simplest of tasks. Thankfully, his perseverance is usually rewarded, and he finds an ingenious way around the problem.
+producao	China
+anoLançamento	1977
+temporada	30
+generoSerie	Biography
+================
+id		81
+tituloSerie	Community
+descSerie	A couple, who were in a long distance relationship for 3 years, face the prospect of getting married.
+producao	Bermudas
+anoLançamento	2009
+temporada	14
+generoSerie	Comedy
+================
+id		47
+tituloSerie	Hagane no renkinjutsushi
+descSerie	An alcoholic man lives in a perpetual stupor while his six children with whom he lives cope as best they can.
+producao	Bermudas
+anoLançamento	2003
+temporada	16
+generoSerie	Animation
+================
+id		99
+tituloSerie	Mushishi
+descSerie	During the Great Depression, an Oklahoma farm boy and a charismatic minister learn that they are key players in a proxy war being fought between Heaven and Hell.
+producao	Ilhas Virgens Americanas
+anoLançamento	2005
+temporada	17
+generoSerie	Animation
+================
+id		71
+tituloSerie	The Angry Video Game Nerd
+descSerie	Satirical newscaster Stephen Colbert provides humorous commentary on the big issues going on in the United States and the rest of the world, with his larger-than-life ego and overly-patriotic spirit along with him every step of the way.
+producao	Fiji
+anoLançamento	2004
+temporada	16
+generoSerie	Comedy
+================
+id		70
+tituloSerie	Utopia
+descSerie	Time and Space traveling adventures of a Gallifreyan Time Lord only known as the Doctor and his companions, traveling through time and space.
+producao	Samoa
+anoLançamento	2013
+temporada	14
+generoSerie	Drama
+================
+id		24
+tituloSerie	Black Mirror
+descSerie	An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.
+producao	Tokelau
+anoLançamento	2011
+temporada	24
+generoSerie	Drama
+================
+id		89
+tituloSerie	Luther
+descSerie	The world of the Vikings is brought to life through the journey of Ragnar Lothbrok, the first Viking to emerge from Norse legend and onto the pages of history - a man on the edge of myth.
+producao	Eslováquia
+anoLançamento	2010
+temporada	20
+generoSerie	Crime
+================
+id		8
+tituloSerie	Dr. Horrible's Sing-Along Blog
+descSerie	A drama about one of New York's most prestigious ad agencies at the beginning of the 1960s, focusing on one of the firm's most mysterious but extremely talented ad executives, Donald Draper.
+producao	Guame
+anoLançamento	2008
+temporada	12
+generoSerie	Comedy
+================
+id		46
+tituloSerie	Pessoa de Interesse
+descSerie	Descrição não disponível.
+producao	Porto Rico
+anoLançamento	2011
+temporada	24
+generoSerie	Action
+================
+id		30
+tituloSerie	Rick and Morty
+descSerie	An animated series that follows the exploits of a super scientist and his not so bright grandson.
+producao	Namíbia
+anoLançamento	2013
+temporada	3
+generoSerie	Animation
+================
+id		11
+tituloSerie	The New Batman Adventures
+descSerie	Bernard Black runs his own bookshop even though he doesn't much like people who buy books and hates having customers. Next door to Bernard's shop is the Nifty Gifty gift shop run by Fran, probably Bernard's only friend in the world. When Bernard's accountant goes on the run Bernard employs stress victim, Manny to help in his shop. This leads to a series of surreal adventures around the shop.
+producao	Benim
+anoLançamento	1997
+temporada	29
+generoSerie	None
+================
+id		92
+tituloSerie	Gravity Falls: Um Verão de Mistérios
+descSerie	North and South is a four part adaptation of Elizabeth Gaskell's love story of Margaret Hale, a middle class southerner who is forced to move to the northern town of Milton.
+producao	Nigéria
+anoLançamento	2012
+temporada	9
+generoSerie	Animation
+================
+id		54
+tituloSerie	Friends
+descSerie	Follows the lives of six 20-something friends living in Manhattan.
+producao	Trindade e Tobago
+anoLançamento	1994
+temporada	12
+generoSerie	Comedy
+================
+id		23
+tituloSerie	Kardes Payi
+descSerie	Mark and Jez are a couple of twenty-something roommates who have nothing in common - except for the fact that their lives are anything but normal. Mayhem ensues as the pair strive to cope with day-to-day life.
+producao	Jersey
+anoLançamento	2014
+temporada	5
+generoSerie	Comedy
+================
+id		6
+tituloSerie	The Office
+descSerie	Teenage superheroes strive to prove themselves as members of the Justice League.
+producao	Macau
+anoLançamento	2001
+temporada	4
+generoSerie	Comedy
+================
+id		1
+tituloSerie	Doctor Who
+descSerie	Jack Bauer comes out of hiding in London to head off a massive terrorist attack while being hunted down by American forces dispatched by President James Heller.
+producao	Nigéria
+anoLançamento	1963
+temporada	28
+generoSerie	Adventure
+================
+id		14
+tituloSerie	The Civil War
+descSerie	A comprehensive survey of the American Civil War.
+producao	Guernsey
+anoLançamento	1990
+temporada	2
+generoSerie	Documentary
+================
+id		91
+tituloSerie	Mr. Show with Bob and David
+descSerie	Bea Smith is locked up while awaiting trial for the attempted murder of her husband and must learn how life works in prison.
+producao	Gaza Strip
+anoLançamento	1995
+temporada	3
+generoSerie	Comedy
+================
+id		68
+tituloSerie	Família Moderna
+descSerie	A suspended lawyer is forced to enroll in a community college with an eclectic staff and student body.
+producao	Japão
+anoLançamento	2009
+temporada	1
+generoSerie	Comedy
+================
+id		35
+tituloSerie	Shameless
+descSerie	Q, Sal, Joe and Murr are real-life best friends who love challenging each other to the most outrageous dares and stunts ever caught on hidden camera.
+producao	República Centro-Africana
+anoLançamento	2011
+temporada	25
+generoSerie	Comedy
+================
+id		4
+tituloSerie	A Sete Palmos
+descSerie	America's top fake news show.
+producao	Indonésia
+anoLançamento	2001
+temporada	18
+generoSerie	Drama
+================
+id		64
+tituloSerie	Através do Buraco de Minhoca
+descSerie	The life and times of Larry David and the predicaments he gets himself in with his friends and complete strangers.
+producao	Tailândia
+anoLançamento	2010
+temporada	26
+generoSerie	Documentary
+================
+id		69
+tituloSerie	O Segredo Além do Jardim
+descSerie	Two brothers find themselves lost in a mysterious land and try to find their way home.
+producao	Jamaica
+anoLançamento	2014
+temporada	17
+generoSerie	Animation
+================
+id		61
+tituloSerie	Top Gear
+descSerie	Dramatized portrayal of the Apollo manned space program.
+producao	Gaza Strip
+anoLançamento	2002
+temporada	10
+generoSerie	Comedy
+================
+id		3
+tituloSerie	Oz
+descSerie	Gon Freecs a young boy aspires to become a Hunter, an exceptionnal being capable of greatness. With his friends and his potential, he seeks for his father who left him when he was younger.
+producao	Suazilândia
+anoLançamento	1997
+temporada	16
+generoSerie	Crime
+================
+id		84
+tituloSerie	Futurama
+descSerie	Watch the story of history's greatest gladiator unfold with graphic violence and the passions of the women that love them. This is Spartacus.
+producao	Honduras
+anoLançamento	1999
+temporada	23
+generoSerie	Animation
+================
+id		27
+tituloSerie	Irmãos de Guerra
+descSerie	The story of Easy Company of the US Army 101st Airborne division and their mission in WWII Europe from Operation Overlord through V-J Day.
+producao	Suriname
+anoLançamento	2001
+temporada	8
+generoSerie	Action
+================
+id		18
+tituloSerie	Hannibal
+descSerie	The futuristic adventures of a female cyborg counter intelligence agent and her support team.
+producao	Cazaquistão
+anoLançamento	2013
+temporada	12
+generoSerie	Crime
+================
+id		60
+tituloSerie	Jane Eyre
+descSerie	Comedy sketches written and performed by renowned duo Stephen Fry and Hugh Laurie.
+producao	Nigéria
+anoLançamento	2006
+temporada	12
+generoSerie	Drama
+================
+id		44
+tituloSerie	Flight of the Conchords
+descSerie	A foul-mouthed nerd reviews bad video games.
+producao	Antígua e Barbuda
+anoLançamento	2007
+temporada	28
+generoSerie	Comedy
+================
+id		95
+tituloSerie	Brigada
+descSerie	Set in the 1960s, the show follows Endeavour Morse in his early years as a police constable. Working alongside his senior partner DI Fred Thursday, Morse engages in a number of investigations around Oxford.
+producao	Paraguai
+anoLançamento	2002
+temporada	2
+generoSerie	Crime
+================
+id		2
+tituloSerie	Monty Python's Flying Circus
+descSerie	The original surreal sketch comedy showcase for the Monty Python troupe.
+producao	São Cristóvão e Neves
+anoLançamento	1969
+temporada	29
+generoSerie	Comedy
+================
+id		75
+tituloSerie	Hellsing Ultimate
+descSerie	A political drama about a prime minister's rise to power, and how power changes a prime minister.
+producao	Bulgária
+anoLançamento	2006
+temporada	8
+generoSerie	Animation
+================
+id		80
+tituloSerie	Kenpû denki beruseruku
+descSerie	A chronicle of the lives of the British aristocratic Crawley family and their servants in the early 20th Century.
+producao	Eslovénia
+anoLançamento	1997
+temporada	10
+generoSerie	Animation
+================
+id		86
+tituloSerie	The Thick of It
+descSerie	Two FBI agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained while hidden forces work to impede their efforts.
+producao	Sudão
+anoLançamento	2005
+temporada	28
+generoSerie	Comedy
+================
+id		13
+tituloSerie	Arquivo X
+descSerie	In the Tudor court of Elizabeth I, Lord Edmund Blackadder strives to win Her Majesty's favour while attempting to avoid a grisly fate should he offend her.
+producao	Guiné
+anoLançamento	1993
+temporada	25
+generoSerie	Drama
+================
+id		83
+tituloSerie	Avatar: A Lenda de Korra
+descSerie	The bizarre animated escapades of pseudo-heroic scientist Dr. Rusty Venture, his competent, high strung bodyguard, and his two over-enthusiastic sons.
+producao	Nicarágua
+anoLançamento	2012
+temporada	10
+generoSerie	Animation
+================
+id		59
+tituloSerie	Endeavour
+descSerie	A dramatization of author Alex Haley's family line from ancestor Kunta Kinte's enslavement to his descendants' liberation.
+producao	Nigéria
+anoLançamento	2012
+temporada	24
+generoSerie	Crime
+================
+id		87
+tituloSerie	Fullmetal Alchemist: Brotherhood
+descSerie	Two brothers search for a Philosopher's Stone after an attempt to revive their deceased mother goes awry and leaves them in damaged physical forms.
+producao	Samoa Americana
+anoLançamento	2009
+temporada	30
+generoSerie	Animation
+================
+id		31
+tituloSerie	Justiça Sem Limites
+descSerie	A young governess falls in love with her brooding and complex master. However, his dark past may destroy their relationship forever.
+producao	Polinésia Francesa
+anoLançamento	2004
+temporada	21
+generoSerie	Comedy
+================
+id		33
+tituloSerie	Mad Men: Inventando Verdades
+descSerie	Fuu, a waitress who works in a teahouse, rescues two master swordsmen, Mugen and Jin, from their execution to help her find the "samurai who smells of sunflowers."
+producao	Guiana
+anoLançamento	2007
+temporada	3
+generoSerie	Drama
+================
+1) Buscar
+2) Dump
+3) Aleatorizar
+0) Sair
