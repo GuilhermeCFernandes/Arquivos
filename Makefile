@@ -3,3 +3,6 @@ all:
 
 run:
 	@./main
+
+clean:
+	@rm main
