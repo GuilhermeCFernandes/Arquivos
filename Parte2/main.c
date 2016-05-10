@@ -254,21 +254,21 @@ char *meuGetLine(size_t *b, FILE *stream) {
  *	Return:		
  *		int: Numero aleatorio entre 0 e 99
 */
-int nextRandId(bool *ids) {
-    int id = -1;
+int nextRand(bool *vector, int size) {
+    int n = -1;
 
     /* Sorteia um numero entre 0 e 99 até que a posição sorteada esteja "vazia"
      * então preenche a posição e retorna o valor
      */
     do {
-        id = rand() % 100;
-        if (ids[id])
-            id = -1;
+        n = rand() % size;
+        if (vector[n])
+            n = -1;
         else
-            ids[id] = 1;
-    } while (id < 0);
+            vector[n] = 1;
+    } while (n < 0);
 
-    return id;
+    return n;
 }
 
 /*	generateBD (void) - A partir de arquivos .txt contendo informações sobre 250 series diferentes, gera um arquivo binario contendo 100 dessas
@@ -287,7 +287,7 @@ void generateBD (void) {
     int size;
     int regSize;
 
-    int randVector[100]; //Vetor contendo numeros de 0 à 249 em ordem aleaotoria
+    bool *randVector = calloc(250, sizeof(bool));; //Vetor contendo numeros de 0 à 249 em ordem aleaotoria
     bool *randIds = calloc(100, sizeof(bool)); //Vetor contendo numeros de 0 à 99 em ordem aleaotoria
     void *regVector = NULL; //Buffer usado para armazenar o conteudo de um registro antes de escrevê-lo no arquivo
 
@@ -309,22 +309,6 @@ void generateBD (void) {
 
     /*Arquivo binario*/
     FILE *BancoDeDados = NULL; 
-
-
-    /*Gera uma vetor de 100 posições com numeros de 0 à 249 em ordem aleatoria e não repetidos*/
-    srand(time(NULL));
-    for (i = 0; i < 100; i++) {
-        numb = rand() % 250;
-
-        for (j = 0; j < i; j++)
-            if (numb == randVector[j]) break;
-
-        if (j == i) {
-            randVector[i] = numb;
-        } else
-            i--;
-    }
-
 
     /*Abre arquivos .txt*/
     titulo = fopen ("nomes.txt", "r");
@@ -375,8 +359,8 @@ void generateBD (void) {
 
    	//Serão salvos/escritos apenas 100, dos 250 registros
     for (j = 0; j < 100; j++) {
-        i = randVector[j]; //Seleciona o primeiro registro a ser salvo na ram
-        id = nextRandId(randIds); //Gera o id deste registro
+        i = nextRand(randVector, 250); //Seleciona o primeiro registro a ser salvo na ram
+        id = nextRand(randIds, 100); //Gera o id deste registro
 
 
         /*Calcula o tamanho total do registro*/
@@ -446,6 +430,16 @@ void generateBD (void) {
         /*Terminador de registro*/
         memcpy (regVector + size, &terminadorRegistro, sizeof(char));
         size += sizeof(char);
+
+        if (size >= 1024) {
+            fwrite (regVector, 1, size, BancoDeDados);
+            
+            
+            free(regVector);
+            regVector = NULL;
+            size = 0;
+
+        }
 
 
     }
