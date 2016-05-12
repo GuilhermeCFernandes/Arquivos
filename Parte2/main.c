@@ -248,11 +248,12 @@ char *meuGetLine(size_t *b, FILE *stream) {
     return s;
 }
 
-/* nextRandID () - Gera um numero aleatorio entre 0 e 99 que ainda não foi armazenado em ids e o retorna para o usuario
+/* nextRand () - Gera um numero de aleatório de 0 à 'size' que ainda não esteja armazenado em vector.
+ *
  *	Parametros: 
- *		bool *ids: vetor usado para armazenar valores/posições já sorteadas
+ *		bool *vector: vetor usado para armazenar valores/posições já sorteadas
  *	Return:		
- *		int: Numero aleatorio entre 0 e 99
+ *		int: Numero aleatorio entre 0 e 'size-1'
 */
 int nextRand(bool *vector, int size) {
     int n = -1;
